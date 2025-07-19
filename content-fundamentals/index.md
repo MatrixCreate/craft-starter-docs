@@ -12,9 +12,9 @@
 ## Key Concepts
 
 ### Content Types
-- Company content (blog, team, testimonials)
-- Main site pages (about, services, contact)
-- System pages (errors, maintenance)
+- Company content (team, testimonials)
+- Main site pages (about, blog, services, contact)
+- System (blog categories, error pages)
 
 ### Content Blocks
 - Flexible page building system
