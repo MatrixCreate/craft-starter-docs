@@ -6,6 +6,37 @@ export default defineConfig({
   description: "A VitePress Site",
   srcDir: './docs',
   cleanUrls: true,
+  
+  // Custom CSS
+  vite: {
+    css: {
+      devSourcemap: true
+    }
+  },
+  
+  // Inline CSS for hero text styling
+  head: [
+    ['style', {}, `
+      .VPHero .text {
+        font-size: 32px !important;
+        line-height: 1.2;
+        font-weight: 600;
+        max-width: none !important;
+      }
+      
+      @media (min-width: 640px) {
+        .VPHero .text {
+          font-size: 32px !important;
+        }
+      }
+      
+      @media (min-width: 960px) {
+        .VPHero .text {
+          font-size: 36px !important;
+        }
+      }
+    `]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -70,6 +101,7 @@ export default defineConfig({
         text: 'Global Settings',
         collapsed: true,
         items: [
+          { text: 'Company Info', link: '/global-settings/company-info' },
           { text: 'Site Config', link: '/global-settings/site-configuration' },
           { text: 'Global Content', link: '/global-settings/global-content' }
         ]
@@ -91,16 +123,6 @@ export default defineConfig({
           { text: 'Images', link: '/assets/images' },
           { text: 'Documents', link: '/assets/documents' },
           { text: 'Brand Assets', link: '/assets/brand-assets' }
-        ]
-      },
-      {
-        text: 'Help & Support',
-        collapsed: true,
-        items: [
-          { text: 'Global vs Local Content', link: '/help/global-vs-local' },
-          { text: 'Common Issues', link: '/help/common-issues' },
-          { text: 'WordPress Feature Guide', link: '/help/wordpress-mapping' },
-          { text: 'Version Differences', link: '/help/version-differences' }
         ]
       }
     ],

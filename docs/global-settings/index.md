@@ -2,27 +2,34 @@
 
 *Manage site-wide content and configuration*
 
-## Two Main Areas
+[Screenshot: Craft CMS admin sidebar showing Globals section expanded with Company Info, Site Config, and Global Content options visible]
+
+# Three Main Areas
+
+### Company Info
+[Screenshot: Company Info overview showing the four main tabs - Contact Info, Brand, Opening Hours, and Social Networks]
+
+- Business contact information and address
+- Brand logos for header, footer, and email
+- Opening hours and business schema
+- Social media profile links
 
 ### Site Config
-- Technical site settings
-- Header and footer management
-- Navigation menus
-- Brand assets and identity
-- Contact information
-- Social media integration
-- Default images and placeholders
-- Custom scripts and tracking
+[Screenshot: Site Config overview showing the five main tabs - Header & Footer, Navigation, Content Blocks, Placeholders, and Scripts]
+
+- Technical site settings and behavior
+- Header and footer configuration
+- Navigation menus and megamenu settings
+- Content block global settings
+- Default images, placeholders, and custom scripts
 
 ### Global Content
-- Reusable content blocks
-- Site-wide call-to-action sections
-- Global contact forms
-- FAQ sections
-- USPs and selling points
-- Trust badges and certifications
-- Testimonials management
-- Newsletter signup forms
+[Screenshot: Global Content overview showing the seven main tabs - Call to Action, Contact Form, FAQ, USPs, Trust Links, Testimonials, and Newsletter Signup]
+
+- Reusable content blocks used across the site
+- Global call-to-action sections and contact forms
+- FAQ sections and USP management
+- Trust badges, testimonials, and newsletter signup forms
 
 ## Key Concepts
 
@@ -39,4 +46,4 @@
 
 ---
 
-**Next**: Learn about [Site Config](site-configuration.md) for technical settings.
+**Next**: Learn about [Company Info](company-info.md) for business information, [Site Config](site-configuration.md) for technical settings, or [Global Content](global-content.md) for reusable content blocks.

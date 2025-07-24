@@ -1,0 +1,29 @@
+/* Custom styles for hero text */
+.VPHero .text {
+  font-size: 32px !important;
+  line-height: 1.2;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+  max-width: none !important;
+}
+
+@media (min-width: 640px) {
+  .VPHero .text {
+    font-size: 32px !important;
+  }
+}
+
+@media (min-width: 960px) {
+  .VPHero .text {
+    font-size: 36px !important;
+  }
+}
+
+/* You can also target other hero elements if needed */
+.VPHero .name {
+  font-size: 3.5rem !important;
+}
+
+.VPHero .tagline {
+  font-size: 1.2rem !important;
+} 

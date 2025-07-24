@@ -2,52 +2,59 @@
 
 *Technical settings and site-wide configuration*
 
+[Screenshot: Globals navigation showing Site Config selected in left sidebar with Company Info, Site Config, and Global Content options visible]
+
+[Screenshot: Site Config main interface showing Header & Footer, Navigation, Content Blocks, Placeholders, and Scripts tabs with Header & Footer tab active]
+
 ## Configuration Tabs
 
 ### Header & Footer
-- Site header content and layout
-- Footer content and links
-- Logo placement and sizing
-- Header navigation settings
-- Footer navigation and legal links
-- **Header behavior options**: Choose between sticky header, shrink on scroll, or hide on scroll
-- **Auto-hide navigation**: Smart navigation that automatically hides/shows based on scroll direction
+
+[Screenshot: Header & Footer tab showing Header section with "Sticky Header" toggle switch and "Hide Header on Scroll" toggle switch, followed by footer configuration options]
+
+Site header and footer configuration:
+- **Sticky Header** – Toggle to make header stick to top when scrolling
+- **Hide Header on Scroll** – Smart header that hides when scrolling down, shows when scrolling up
+- Footer content and links management
+- Header layout and behavior settings
 
 ### Navigation
-- Main navigation menu
-- Mobile navigation settings
-- **Megamenu configuration**: Enhanced dropdown menus with rich content and multiple columns
-- **Mobile navigation patterns**: Sliding and expanding mobile menu options
-- Navigation styling and behavior
+
+[Screenshot: Navigation tab showing megamenu configuration options, auto-hide navigation settings, main navigation menu structure fields, mobile navigation options, and breadcrumb settings]
+
+Main site navigation configuration:
+- **Megamenu Configuration** – Enhanced dropdown menus with rich content and multiple columns
+- **Auto-hide Navigation** – Smart navigation that automatically hides/shows based on scroll direction
+- Main navigation menu structure and links
+- Mobile navigation settings and patterns
+- Navigation styling and behavior options
 - Breadcrumb configuration
 
-### Brand
-- Primary logo upload and management
-- Footer logo (if different)
-- Email signature logo
-- Brand colors and styling
-- Logo sizing and positioning
+### Content Blocks
 
-### General Information
-- Business name and description
-- Contact details (phone, email, address)
-- Opening hours and availability
-- Legal information and registration
-- Privacy policy and terms links
+[Screenshot: Content Blocks tab showing global content block settings, default styling options, global color scheme controls, and content block behavior configuration fields]
 
-### Social Networks
-- Social media profile links
-- Social sharing settings
-- Social media icons and styling
-- Integration with social platforms
+Global settings for content blocks:
+- Default styling and layout options for content blocks
+- Global color schemes and typography settings
+- Content block behavior and functionality settings
+- Default images and placeholders for content blocks
 
 ### Placeholders
+
+[Screenshot: Placeholders tab showing default image upload fields for various content types, fallback image options, placeholder text fields, and image optimization settings]
+
+Default content and fallback options:
 - Default images for various content types
 - Fallback images when content is missing
-- Image sizing and optimization
+- Placeholder text and content
+- Image sizing and optimization settings
 - Alt text for default images
 
 ### Scripts
+
+[Screenshot: Scripts tab showing text areas for custom HTML head code, custom HTML body code, analytics tracking code fields, and third-party integration script areas]
+
 - Custom HTML in site head
 - Custom HTML in site body
 - Analytics and tracking codes

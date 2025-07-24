@@ -42,34 +42,44 @@ The Blog Listing block automatically displays blog posts from your Collections �
 - Carousel option for mobile-friendly browsing
 - Other layout options available in dropdown
 
-### Filtering and Loading Options
+### Dynamic Loading and Filters
 
 [Screenshot: Three toggle switches - "Show Filters" (off), "Show Pagination" (off), "Load More Posts Without Reloading Page" (on)]
 
 **Show Filters** – Toggle to display category or tag filters above the blog listing
+- Allows visitors to filter blog posts by category
+- Interactive filtering without page reloads
 
-**Show Pagination** – Toggle to show page numbers for navigating through posts
+**Show Pagination** – Toggle for traditional pagination controls
+- Page numbers for navigating through blog posts
+- Standard pagination interface
 
-**Load More Posts Without Reloading Page** – Enable ajax loading for seamless browsing experience
+**Load More Posts Without Reloading Page** – Toggle for dynamic loading
+- "Load more" button functionality 
+- Ajax loading for seamless browsing experience
+- Alternative to traditional pagination
 
-### Colors
+### Color Controls
+- **Heading Colour** – Color for blog post headings and titles
+- **Text Colour** – Color for blog post text and descriptions
+- **Background Colour** – Background color for the entire blog listing section
+- Brand colors, neutral options, and transparent backgrounds available
 
-[Screenshot: Heading Colour section with color swatches, partially visible at bottom of interface]
+## Blog Post Display
+Each blog post displays as a card containing:
+- **Featured Image** – Post's featured image (if available)
+- **Title** – Post title linking to full article
+- **Excerpt** – Brief summary of the post content
+- **Read More Link** – Call-to-action to view full post
+- **Publication Date** – When the post was published
+- **Category Tags** – Post categorization for filtering
 
-**Heading Colour** – Control the color of headings in the blog listing
-- Brand and neutral color options available
-- Consistent with other content block color controls
-
-## Usage
-
-Use Blog Listing blocks for:
-- **Blog index pages** – Main blog pages showing recent posts
-- **Category pages** – Display posts from specific topics
-- **Homepage highlights** – Feature recent blog content on other pages
-- **Related posts** – Show relevant articles on service or content pages
-
-The block automatically pulls published blog posts from your Collections → Blog section and displays them according to your configured options.
+## Usage Scenarios
+- **Blog pages** – Main blog listing and archive pages
+- **Homepage sections** – Featured blog posts and recent articles
+- **Service pages** – Related blog content and resources
+- **Resource sections** – Educational content and industry insights
 
 ---
 
-*Blog Listing blocks provide automated, customizable displays of your blog content with flexible layout and filtering options.*
+*Blog Listing blocks provide automated blog post display with filtering, pagination, and dynamic loading options for improved user experience.*

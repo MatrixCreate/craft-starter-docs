@@ -3,7 +3,7 @@ layout: home
 title: Craft CMS User Guide
 hero:
   name: Craft CMS User Guide
-  text: Complete guide for LOCALiQ content editors
+  text: A complete guide for LOCALiQ content editors
   tagline: Learn to manage content, create pages, and make the most of your website's features
   actions:
     - theme: brand

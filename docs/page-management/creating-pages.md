@@ -1,37 +1,44 @@
 # Creating Pages
 
-*Step-by-step guide to creating new pages in your CMS*
+*Step-by-step guide to creating new pages*
 
-## Topics to Cover
+## Creating a New Page
 
-### Page Creation Process
-- Accessing the page creation interface
-- Choosing page templates and types
-- Setting up page hierarchy
-- Configuring page URLs and slugs
+### Starting Page Creation
+- Navigate to Entries → Pages in admin sidebar
+- Click "New entry" button
+- Choose entry type if multiple page types available
 
-### Page Settings
-- Page title and meta information
-- Page status (draft, live, disabled)
-- Publication dates and scheduling
-- Page permissions and access
+### Page Information Fields
+- **Title** – Page title and automatic URL slug generation
+- **Featured Image** – Main image for the page (used in cards, social sharing)
+- **Excerpt** – Brief description for page summaries and previews
+- **Page Status** – Draft, enabled, or disabled
 
-### Content Structure
-- Setting up the Content tab
-- Configuring Hero sections
-- Managing Footer content
-- SEO and Schema setup
+### Content Building with Blocks
+- **Content Blocks Matrix** – Add and arrange content blocks
+- Drag and drop block ordering
+- Block-specific settings and styling
+- Preview blocks as you build
 
-### Organization
-- Parent and child page relationships
-- Page ordering and navigation
-- URL structure best practices
-- Site architecture considerations
+### Page Settings Tab
+- **URL Slug** – Custom URL path
+- **Parent Page** – Page hierarchy and navigation structure
+- **Template** – Custom template selection (if multiple available)
+- **Publication Date** – Scheduling and timing
+
+### SEO Configuration
+- **SEO Title** – Custom title for search engines
+- **Meta Description** – Search result snippet text  
+- **Social Media Images** – Open Graph and Twitter card images
+- **Schema Markup** – Structured data configuration
+
+### Publishing Workflow
+- **Save as Draft** – Work in progress, not visible to public
+- **Preview** – Test page appearance before going live
+- **Publish** – Make page live on the website
+- **Schedule Publishing** – Set future publication date
 
 ---
 
-*Screenshot placeholders needed:*
-- [Page creation interface]
-- [Page settings form]
-- [Content tab setup]
-- [Page hierarchy interface]
+*Creating pages involves building content with flexible blocks and configuring settings for SEO and site structure.*
