@@ -37,12 +37,12 @@ After logging in, you'll see the main dashboard:
 ### Key Areas:
 - **Left Navigation**: Main menu for accessing different sections
 - **Main Content Area**: Where you'll edit and manage content
-- **User Menu**: Account settings and logout (top right)
+- **User Menu**: Account settings and sign out (top right)
 
 ## Getting Started Checklist
 
 Before you start editing content:
-- [ ] Successfully log in to your CMS
+- [ ] Successfully sign in to your CMS
 - [ ] Take a tour of the dashboard
 - [ ] Understand the main navigation structure
 - [ ] Know where to find help and documentation

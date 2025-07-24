@@ -4,7 +4,7 @@
 
 ## Two Main Areas
 
-### Site Configuration
+### Site Config
 - Technical site settings
 - Header and footer management
 - Navigation menus
@@ -33,10 +33,10 @@
 - Changes to global content affect all pages using it
 
 ### Version Notes
-- Site Configuration was previously called "Settings"
+- Site Config was previously called "Settings"
 - Global Content was previously called "Sitewide Content"
 - Enhanced organization in current version
 
 ---
 
-**Next**: Learn about [Site Configuration](site-configuration.md) for technical settings.
+**Next**: Learn about [Site Config](site-configuration.md) for technical settings.

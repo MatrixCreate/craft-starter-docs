@@ -5,13 +5,13 @@
 ## Topics to Cover
 
 ### Content Management
-- WordPress Posts → Company → Blog
+- WordPress Posts → Collections → Blog
 - WordPress Pages → Content → Pages
 - WordPress Categories → Blog Categories
 - WordPress Tags → Enhanced categorization
 
 ### Site Customization
-- WordPress Customizer → Site Configuration
+- WordPress Customizer → Site Config
 - WordPress Menus → Navigation settings
 - WordPress Widgets → Global Content
 - WordPress Themes → Built-in design system

@@ -22,6 +22,11 @@
 - Page status and visibility
 - Bulk page operations
 
+### Navigation Management
+- **Main navigation setup**: Configure primary site navigation in Global Settings > Site Config
+- **Megamenu options**: Create rich dropdown menus with multiple columns and content
+- **Mobile navigation**: Set up responsive navigation patterns for mobile devices
+
 ### Content Management
 - Page content blocks
 - Content reuse and templates

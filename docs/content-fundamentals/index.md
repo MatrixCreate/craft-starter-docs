@@ -12,7 +12,7 @@
 ## Key Concepts
 
 ### Content Types
-- Company content (team, testimonials)
+- Collections content (team, testimonials)
 - Main site pages (about, blog, services, contact)
 - System (blog categories, error pages)
 

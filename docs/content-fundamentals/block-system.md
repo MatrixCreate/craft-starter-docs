@@ -1,49 +1,54 @@
-# The Content Block System
+# Block System
 
-*How to build flexible, engaging pages with content blocks*
+*How Craft CMS uses content blocks for flexible page building*
 
-## Topics to Cover
+Instead of a single text editor, Craft CMS uses a content block system for building pages. This approach lets you combine different types of content – text, images, forms, testimonials – in any order to create the exact layout you need.
 
-### Block System Basics
-- What are content blocks and why use them
-- Difference from traditional single-editor systems
-- Flexibility vs simplicity balance
+## How It Works
 
-### Block Types Overview
-- Text blocks (rich text editing)
-- Media blocks (images, videos)
-- Interactive blocks (forms, FAQs)
-- Layout blocks (text + image combinations)
-- Specialized blocks (testimonials, USPs)
+Content blocks are added in the Content tab when editing entries. Each block type has specific fields and handles different kinds of content.
 
-### Global vs Local Content
-- When to use Global content
-  - Site-wide elements (contact forms, FAQs)
-  - Consistent messaging across pages
-  - Centralized content management
-- When to use Local content
-  - Page-specific information
-  - Unique calls-to-action
-  - Custom content per page
+[Screenshot: Content tab showing multiple content blocks stacked vertically with "Add Content Block" button at bottom]
 
-### Block Management
-- Adding new blocks
-- Reordering blocks (drag & drop)
-- Duplicating blocks
-- Deleting blocks
-- Block settings and options
+**Basic workflow:**
+1. **Edit an entry** and go to the Content tab
+2. **Add blocks** using the "Add Content Block" button
+3. **Configure each block** with its specific content and settings
+4. **Reorder blocks** by dragging them up or down
 
-### Design Controls
-- Color customization options
-- Background colors and themes
-- Typography controls
-- Spacing and layout options
+## Block Types
+
+The system includes blocks for different content needs:
+
+- **Text blocks** for formatted content with headings and paragraphs
+- **Media blocks** for images and videos
+- **Interactive blocks** for forms and FAQ sections
+- **Display blocks** for testimonials and blog listings
+- **Layout blocks** for text and image combinations
+
+## Key Benefits
+
+**Flexibility** – Create any page layout without coding
+
+**Consistency** – Each block type maintains design standards
+
+**Reusability** – Some blocks can use global content that appears across multiple pages
+
+**Organization** – Content is structured and easy to manage
+
+## Global vs Local Content
+
+Many blocks offer the choice between global and local content:
+
+- **Global content** is managed centrally and appears consistently across pages
+- **Local content** is specific to individual pages
+
+This system lets you maintain consistent messaging while allowing page-specific customization when needed.
+
+## Next Steps
+
+For detailed information about content blocks, including all available types and their specific features, see the [Content Blocks](/content-blocks/) section.
 
 ---
 
-*Screenshot placeholders needed:*
-- [Content block selector interface]
-- [Block editing interface]
-- [Global vs Local toggle]
-- [Color controls interface]
-- [Block reordering demonstration]
+*The block system provides the foundation for flexible content management. Understanding this concept helps you make the most of Craft CMS's page-building capabilities.*

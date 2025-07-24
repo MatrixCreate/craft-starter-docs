@@ -1,4 +1,4 @@
-# Site Configuration
+# Site Config
 
 *Technical settings and site-wide configuration*
 
@@ -10,11 +10,14 @@
 - Logo placement and sizing
 - Header navigation settings
 - Footer navigation and legal links
+- **Header behavior options**: Choose between sticky header, shrink on scroll, or hide on scroll
+- **Auto-hide navigation**: Smart navigation that automatically hides/shows based on scroll direction
 
 ### Navigation
 - Main navigation menu
 - Mobile navigation settings
-- Dropdown and mega menu options
+- **Megamenu configuration**: Enhanced dropdown menus with rich content and multiple columns
+- **Mobile navigation patterns**: Sliding and expanding mobile menu options
 - Navigation styling and behavior
 - Breadcrumb configuration
 
@@ -59,7 +62,7 @@
 ---
 
 *Screenshot placeholders needed:*
-- [Site Configuration tabs interface]
+- [Site Config tabs interface]
 - [Header & Footer settings]
 - [Navigation management]
 - [Brand assets upload]

@@ -10,12 +10,12 @@
 - **Content Blocks**: Enhanced organization and naming
 
 ### Settings Organization
-- **Site Configuration**: Previously called "Settings"
+- **Site Config**: Previously called "Settings"
 - **Global Content**: Previously called "Sitewide Content"
 - **Globals**: Better organization into logical sections
 
 ### Entry Organization
-- **Company/Content/System**: Previously used generic "Structure" and "Channel"
+- **Collections/Content/System**: Previously used generic "Structure" and "Channel" (formerly called "Company")
 - **Custom Sources**: Better organization by content purpose
 - **Entry Types**: More descriptive names and organization
 

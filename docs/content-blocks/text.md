@@ -1,45 +1,50 @@
-# Text 
+# Text
 
-*Rich text editing for paragraphs, headings, lists, and formatted content*
+*Flexible rich text block for formatted content*
 
-## Topics to Cover
+The Text block provides rich text editing for content that needs formatting like headings, paragraphs, lists, and links. It's the most commonly used block for main page content.
 
-### Basic Text Editing
-- Rich text editor interface
-- Formatting options (bold, italic, underline)
-- Heading levels (H1, H2, H3, etc.)
-- Paragraph formatting
+## Fields
+
+### Rich Text Editor
+
+[Screenshot: Rich text editor showing paragraph dropdown, styles dropdown, formatting tools including bold button, and text area with word count]
+
+**Rich text field with:**
+- Paragraph styles (H1, H2, H3, paragraph text)
+- Text formatting (bold, italic, links)
 - Lists (bulleted and numbered)
-- Links and link management
+- Word count display
 
-### Advanced Features
-- Image insertion within text
-- Table creation and editing
-- Code snippets and formatting
-- Special characters and symbols
-- Text alignment options
+### Action Buttons
 
-### Design Controls
-- Heading color customization
-- Text color options
-- Background color selection
-- Typography styles
+[Screenshot: Action Buttons section showing "Nothing yet" message and "New Action Button" option]
 
-### Best Practices
-- When to use Text blocks vs other block types
-- Structuring content with headings
-- Link best practices
-- Accessibility considerations
+**Optional call-to-action buttons:**
+- Custom button text
+- Link to internal pages or external URLs
+- Multiple buttons supported
 
-### Version Notes
-- Previously called "Rich Text" in older versions
-- Enhanced editing capabilities in current version
+### Color Controls
+
+[Screenshot: Color controls showing Heading Colour, Text Colour, and Background Colour sections with color swatches]
+
+**Color customization:**
+- **Heading Colour** – Color for any headings in the text
+- **Text Colour** – Color for body text  
+- **Background Colour** – Background color for the entire block
+
+**Available colors include brand colors, neutral options, and transparent backgrounds.**
+
+## Usage
+
+Use Text blocks for:
+- Main page content and descriptions
+- Content requiring headings and formatted text
+- Text that needs integrated call-to-action buttons
+
+Text blocks work well as the primary content area on most pages, with other specialized blocks added around them for specific functionality.
 
 ---
 
-*Screenshot placeholders needed:*
-- [Rich text editor interface]
-- [Text formatting toolbar]
-- [Color controls for text blocks]
-- [Image insertion within text]
-- [Link creation interface]
+*The Text block handles the majority of content creation needs with its flexible rich text editor and color customization options.*

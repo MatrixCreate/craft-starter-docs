@@ -17,22 +17,22 @@ In WordPress, you have Posts and Pages. In Craft CMS, **everything is an Entry**
 
 Instead of WordPress's basic categorization, entries are organized into logical groups:
 
-[Screenshot: Entries sidebar showing Company, Content, and System categories]
+[Screenshot: Entries sidebar showing Collections, Content, and System categories]
 
-- **Company**: Blog posts, team members, testimonials
+- **Collections**: Blog posts, team members, testimonials
 - **Content**: Main website pages
 - **System**: Technical pages like 404 errors
 
 ## Familiar Features
 
 ### Content Editing
-- **Visual Editor**: Similar to WordPress's block editor
-- **Media Library**: Upload and manage images and documents
-- **Publishing**: Draft, publish, and schedule content
+- **Content Block Editor**: Flexible content editing, similar to WordPress block editor and Advanced Custom Fields
+- **Assets**: Upload and manage images and documents, similar to WordPress Media Library
+- **Publishing**: Draft, publish, and schedule Content
 
 ### Site Management
-- **Menus**: Build navigation menus (like WordPress Menus)
-- **Customization**: Site-wide settings (like WordPress Customizer)
+- **Navigation**: Manage navigation menus (like WordPress Menus)
+- **Globals**: Site-wide settings (like WordPress Customizer)
 - **Users**: Manage user accounts and permissions
 
 ## Key Differences
@@ -47,9 +47,11 @@ WordPress has a fixed structure for posts and pages. Craft CMS uses a **content 
 - Create complex layouts without coding
 
 ### Global vs Local Content
-Unlike WordPress widgets, Craft CMS distinguishes between:
-- **Global Content**: Appears site-wide (like contact forms, testimonials)
-- **Local Content**: Specific to individual pages
+Some content blocks support both Global and Local modes. Global content is edited once in the Globals section and reused across multiple entries. Alternatively, you can add custom local blocks directly to individual entries when unique content is needed.
+- **Call to Action**
+- **Contact Form**
+- **FAQ**
+- **USPs**
 
 ### Enhanced SEO
 Built-in SEO tools that go beyond WordPress plugins:
@@ -61,11 +63,11 @@ Built-in SEO tools that go beyond WordPress plugins:
 
 | WordPress Feature | Craft CMS Equivalent |
 |------------------|---------------------|
-| Posts | Company → Blog |
-| Pages | Content → Pages |
-| Menus | Global Settings → Navigation |
-| Customizer | Global Settings → Site Configuration |
-| Widgets | Global Settings → Global Content |
+| Posts | Entries → Blog |
+| Pages | Entries → Pages |
+| Menus | Navigation |
+| Customizer | Globals → Site Config |
+| Widgets | Globals → Global Content |
 | Media Library | Assets |
 | Categories/Tags | Built into content types |
 

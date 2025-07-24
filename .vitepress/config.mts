@@ -40,10 +40,11 @@ export default defineConfig({
         text: 'Content Blocks',
         collapsed: true,
         items: [
+          { text: 'Overview', link: '/content-blocks/overview' },
+          { text: 'Hero', link: '/content-blocks/hero' },
           { text: 'Text', link: '/content-blocks/text' },
           { text: 'Text & Image', link: '/content-blocks/text-image' },
           { text: 'Call to Action', link: '/content-blocks/call-to-action' },
-          { text: 'Hero Section', link: '/content-blocks/hero' },
           { text: 'Blog Listing', link: '/content-blocks/blog-listing' },
           { text: 'Testimonials', link: '/content-blocks/testimonials' },
           { text: 'FAQ Section', link: '/content-blocks/faq' },
@@ -69,7 +70,7 @@ export default defineConfig({
         text: 'Global Settings',
         collapsed: true,
         items: [
-          { text: 'Site Configuration', link: '/global-settings/site-configuration' },
+          { text: 'Site Config', link: '/global-settings/site-configuration' },
           { text: 'Global Content', link: '/global-settings/global-content' }
         ]
       },

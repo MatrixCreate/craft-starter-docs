@@ -11,34 +11,46 @@ The left sidebar contains your main navigation, organized into logical sections:
 ### Entries Section
 This is where you'll spend most of your time managing content:
 
-[Screenshot: Entries section expanded showing Company, Content, System]
+[Screenshot: Entries section expanded showing Collections, Content, System]
 
-- **Company**: Business-related content
+- **Singles**: Special one-off pages
+  - Homepage
+
+- **Collections**: Groups of content typically used in other sections of the site
   - Blog posts and articles
   - Team member profiles
   - Customer testimonials
-  - Blog categories
   
-- **Content**: Main website pages
-  - Homepage
+- **Content**: Primary content pages
   - About, Services, Contact pages
   - All your site's main content
 
 - **System**: Technical pages
+  - Blog categories
   - 404 error pages
   - Maintenance pages
 
 ### Global Settings
-Two important sections for site-wide management:
+Three important sections for site-wide management:
 
-[Screenshot: Global settings sections - Site Configuration and Global Content]
+[Screenshot: Global settings section - Company Info]
 
-- **Site Configuration**: Technical settings
+- **Company Info**: Technical settings
+  - Contact Info
+  - Brand (Logos)
+  - Opening Hours
+  - Social Networks
+
+[Screenshot: Global settings section - Site Config]
+
+- **Site Config**: Technical settings
   - Header and footer content
   - Navigation menus
   - Brand assets (logos, colors)
   - Contact information
   - Social media links
+
+[Screenshot: Global settings section - Global Content]
 
 - **Global Content**: Reusable content blocks
   - Site-wide call-to-action sections
@@ -93,7 +105,7 @@ In the top right corner, access your account settings:
 
 - Account settings
 - Change password
-- Logout
+- Sign out
 
 ## Navigation Tips
 
@@ -114,7 +126,7 @@ Your browser's back button works normally - use it to navigate between sections.
 The dashboard is organized by **content type** rather than **format**:
 
 **Traditional CMS**: Posts vs Pages
-**Craft CMS**: Company vs Content vs System
+**Craft CMS**: Collections vs Content vs System
 
 This makes it easier to find and manage related content together.
 
@@ -122,13 +134,13 @@ This makes it easier to find and manage related content together.
 
 ### No "Posts" and "Pages"
 Everything is an "Entry" but organized by purpose:
-- Blog content goes in "Company"
+- Blog content goes in "Collections"
 - Main site pages go in "Content"
 - Technical pages go in "System"
 
 ### Two-Level Global Settings
 Instead of one "Settings" area:
-- **Site Configuration**: Technical site settings
+- **Site Config**: Technical site settings
 - **Global Content**: Reusable content elements
 
 ### Content Block System
@@ -137,8 +149,8 @@ Instead of a single content editor, you build pages with content blocks (more on
 ## Getting Comfortable
 
 ### Start Here:
-1. **Browse the Entries**: Click through Company, Content, and System
-2. **Check Global Settings**: Look at Site Configuration and Global Content
+1. **Browse the Entries**: Click through Collections, Content, and System
+2. **Check Global Settings**: Look at Site Config and Global Content
 3. **Open an existing page**: See how content is structured
 4. **Try the search**: Find content quickly
 
