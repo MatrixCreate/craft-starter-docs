@@ -4,7 +4,20 @@
 
 Craft CMS organizes content using Entries, but unlike traditional systems where everything is a "post" or a "page", entries in Craft are grouped by purpose. This structure makes it easier to manage content consistently and understand where everything belongs.
 
-## How Content is Organized
+### Entry Organization
+- Singles
+  - Homepage
+- Company section
+  - Blog posts 
+  - Team member profiles
+  - Customer testimonials
+- Content section
+  - Main site pages (About, Services, Contact)
+  - Landing pages
+- System section
+  - Blog categories
+  - Error pages (404, 503)
+  - Maintenance pages
 
 In the Control Panel, the Entries section in the sidebar is grouped into four main categories:
 
