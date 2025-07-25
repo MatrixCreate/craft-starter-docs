@@ -24,11 +24,12 @@ New to Craft CMS? Start with our [Getting Started](/getting-started/) guide to l
 
 ## What You'll Learn
 
-- **Content Management**: Create and edit pages, blog posts, and other content
-- **Content Blocks**: Use our flexible block system to build engaging pages
-- **Global Settings**: Manage site-wide content and configuration
-- **SEO & Marketing**: Optimize your content for search engines
-- **Asset Management**: Upload and organize images and documents
+- **[Content Management](/content-fundamentals/)**: Create and edit pages, blog posts, and other content
+- **[Page Management](/page-management/)**: Use our flexible block system to build engaging pages
+- **[Content Blocks](/content-blocks/)**: Use our flexible block system to build engaging pages
+- **[Global Settings](/global-settings/)**: Manage site-wide content and configuration
+- **[SEO & Marketing](/seo-marketing/)**: Optimize your content for search engines
+- **[Asset Management](/assets/)**: Upload and organize images and documents
 
 ## For WordPress Users
 
@@ -36,9 +37,9 @@ Coming from WordPress? Our [WordPress User Guide](/getting-started/coming-from-w
 
 ## Need Help?
 
+- Learn about [Content Fundamentals](/content-fundamentals/)
+- View the [Coming From WordPress Guide](/getting-started/coming-from-wordpress) for familiar features
 - Check our [Help & Support](/help/faq) section for common issues
-- View the [WordPress Feature Guide](/getting-started/coming-from-wordpress) for familiar features
-- Learn about [Global vs Local Content](/content-fundamentals/) concepts
 
 ---
 

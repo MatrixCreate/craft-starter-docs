@@ -61,7 +61,7 @@ export default defineConfig({
         text: 'Content Fundamentals',
         collapsed: true,
         items: [
-          { text: 'Overview', link: '/content-fundamentals/index' },
+          { text: 'Overview', link: '/content-fundamentals/' },
           { text: 'Content Types', link: '/content-fundamentals/content-types' },
           { text: 'Page Structure', link: '/content-fundamentals/page-structure' },
           { text: 'Content Blocks', link: '/content-fundamentals/content-blocks' },
@@ -74,7 +74,7 @@ export default defineConfig({
         text: 'Page Management',
         collapsed: true,
         items: [
-          { text: 'Overview', link: '/page-management/index' },
+          { text: 'Overview', link: '/page-management/' },
           { text: 'Creating Pages', link: '/page-management/creating-pages' },
           { text: 'Organization', link: '/page-management/organization' },
           { text: 'Publishing', link: '/page-management/publishing' },
@@ -124,7 +124,7 @@ export default defineConfig({
         text: 'SEO & Marketing',
         collapsed: true,
         items: [
-          { text: 'Overview', link: '/seo-marketing/index' },
+          { text: 'Overview', link: '/seo-marketing/' },
           { text: 'Global SEO', link: '/seo-marketing/global-seo' },
           { text: 'Content SEO', link: '/seo-marketing/content-seo' },
           { text: 'Entry SEO', link: '/seo-marketing/entry-seo' },
@@ -145,7 +145,7 @@ export default defineConfig({
         text: 'Help & Support',
         collapsed: true,
         items: [
-          { text: 'Overview', link: '/help/index' },
+          { text: 'Overview', link: '/help/' },
           { text: 'FAQ', link: '/help/faq' },
           { text: 'Contact Support', link: '/help/contact-support' },
         ]
