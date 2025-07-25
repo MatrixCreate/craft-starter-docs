@@ -1,77 +1,42 @@
-# Page Organization
+# Organizing Pages
 
-*Organizing and structuring your site's pages*
+Craft CMS allows you to organize your pages into a **hierarchy**, creating parent-child relationships that define your site's structure. This is a powerful feature for keeping your content organized and creating user-friendly URLs.
 
-## Page Hierarchy System
+## The Parent-Child System
 
-### Parent-Child Relationships
-- **Parent Page Selection** – Set page relationships during creation or editing
-- **Nested Page Structure** – Create unlimited levels of page nesting
-- **Page Ordering** – Drag and drop pages to reorder within hierarchy
-- **Hierarchy Display** – Tree view of page structure in entries list
+When you create or edit a page, you can assign it a **Parent** page. This simple action has two major effects:
 
-### URL Structure Impact
-- **Inherited URLs** – Child pages inherit parent URL structure
-- **Automatic Slug Generation** – URLs created from page titles
-- **Custom Slug Override** – Manual URL path customization
-- **URL Preview** – See full URL path before publishing
+1.  **URL Structure**: The child page's URL will be nested under the parent's URL.
+2.  **Navigation**: In many cases, the site navigation will automatically reflect this hierarchy, placing the child page in a dropdown menu under its parent.
 
-## Pages List Management
+### How to Set a Parent Page
 
-### Entries Interface
-- **Tree View** – Hierarchical display of all pages
-- **Flat View** – List all pages regardless of hierarchy
-- **Search and Filter** – Find pages by title, status, or date
-- **Bulk Actions** – Select multiple pages for mass operations
+1.  While editing any entry, find the **Parent** field in the right-hand sidebar.
+2.  Click **Choose** to open a list of all available pages.
+3.  Select the page you want to be the parent.
 
-### Page Status Management
-- **Draft Pages** – Work in progress, not visible to public
-- **Live Pages** – Published and accessible to visitors
-- **Disabled Pages** – Hidden but preserved in system
-- **Scheduled Pages** – Set for future publication
+[Screenshot: The right-hand sidebar of the entry editor, with the "Parent" field highlighted and the page selection modal open.]
 
-## Site Structure Planning
+### Example of Page Hierarchy
 
-### Navigation Architecture
-- **Main Navigation** – Top-level pages appear in main menu
-- **Sub-Navigation** – Child pages create dropdown menus
-- **Breadcrumb Generation** – Automatic breadcrumb trail from hierarchy
-- **Menu Depth Control** – Limit navigation levels displayed
+Imagine you have a main "Services" page. You can create individual pages for each service you offer (e.g., "Web Design," "Content Marketing") and set their parent to "Services."
 
-### URL and SEO Considerations
-- **SEO-Friendly URLs** – Clean, descriptive URL paths
-- **URL Length** – Keep URLs concise for better usability
-- **Keyword Integration** – Include target keywords in URL slugs
-- **Redirect Management** – Handle URL changes to preserve SEO
+This would result in the following clean, logical URL structure:
 
-## Page Management Operations
+-   `/services`
+-   `/services/web-design`
+-   `/services/content-marketing`
 
-### Bulk Page Operations
-- **Mass Status Changes** – Update multiple page statuses
-- **Bulk Moving** – Change parent relationships for multiple pages
-- **Mass Deletion** – Remove multiple pages (with safety warnings)
-- **Publication Scheduling** – Set future publication dates for multiple pages
+## Managing Hierarchy in the Entries List
 
-### Page Duplication and Templates
-- **Duplicate Pages** – Copy existing pages as starting templates
-- **Content Block Copying** – Duplicate page structure and blocks
-- **Template Creation** – Use successful pages as templates for new content
-- **Bulk Content Updates** – Apply changes across similar pages
+You can see and manage the entire page hierarchy directly from the main entries list.
 
-## Navigation and Site Architecture
+[Screenshot: The Entries list view, showing pages nested under their parents in a clear tree structure. The drag handles for reordering are visible.]
 
-### Best Practices for Page Organization
-- **Logical Grouping** – Group related content under parent pages
-- **Consistent Naming** – Use clear, descriptive page titles
-- **Optimal Depth** – Avoid going more than 3-4 levels deep
-- **User Journey Planning** – Organize based on visitor flow and goals
-
-### Impact on Site Features
-- **Automatic Menus** – Navigation menus built from page hierarchy
-- **Related Page Suggestions** – Show sibling or child pages
-- **Site Search** – Hierarchy affects search result organization
-- **Analytics Tracking** – Page structure impacts conversion funnel analysis
+-   **Visual Tree Structure**: The list is displayed as an expandable tree, making it easy to see the parent-child relationships.
+-   **Reordering**: You can drag and drop pages to change their order within the same level.
+-   **Changing Parents**: You can also drag a page to be nested under a *different* parent, instantly changing its URL and position in the site structure.
 
 ---
 
-*Page organization in Craft CMS provides flexible hierarchy management with automatic URL generation and navigation integration.*
+*Using a clear parent-child hierarchy is the key to a well-organized website that is easy for both users and search engines to navigate.*

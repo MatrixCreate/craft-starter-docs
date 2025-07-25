@@ -98,7 +98,7 @@ A: Yes, but this requires technical setup. Contact your developer for assistance
 ## What's Next?
 
 Ready to explore? Continue with:
-- [Control Panel Tour](dashboard-tour.md) - Learn the interface
+- [Control Panel Tour](control-panel-tour.md) - Learn the interface
 - [Your First Edit](first-edit.md) - Start editing content
 - [Content Blocks](/content-blocks/) - Discover flexible content options
 

@@ -1,36 +1,18 @@
 # Content Fundamentals
 
-*Overview of core concepts for content management in Craft CMS*
+This section explains the core concepts of how content is structured and managed in Craft CMS. Understanding these fundamentals is the key to using the system effectively and creating well-organized, professional content.
 
 ## What You'll Learn
 
-- Understanding different content types and their purposes
-- How the content block system works
-- Page structure and organization
-- Publishing workflow and content states
+- The different **Content Types** and their specific purposes.
+- How the flexible **Content Blocks** system works for building page layouts.
+- The standard **Page Structure** used for all content, including the different editing tabs.
 
-## Key Concepts
+## In This Section
 
-### Content Types
-- Collections content (team, testimonials)
-- Main site pages (about, blog, services, contact)
-- System (blog categories, error pages)
-
-### Content Blocks
-- Flexible page building system
-- Global vs Local content options
-- Reusable content elements
-
-### Page Structure
-- Multiple content tabs (Content, Hero, Footer, SEO)
-- Hierarchical page organization
-- URL structure and navigation
-
-### Publishing
-- Draft, Live, and Scheduled states
-- Preview and review process
-- Content approval workflow
-
----
-
-**Next**: Learn about [Content Types](content-types.md) and how they're organized.
+-   **[Content Types](content-types.md)**: Learn how content is organized into different types like Pages, Blog posts, and more.
+-   **[Page Structure](page-structure.md)**: Understand the different tabs (Content, Hero, SEO) you'll use when editing an entry.
+-   **[The Block System](content-blocks.md)**: A guide to the flexible block-based editor used for building page content.
+-   **[Hero Sections](hero.md)**: How to manage the main header area at the top of your pages.
+-   **[Card Details](card-details.md)**: Control how your content appears when featured in lists or grids.
+-   **[Footer Content](footer-content.md)**: Learn about adding page-specific content to the site footer.

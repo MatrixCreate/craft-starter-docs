@@ -1,6 +1,8 @@
 # Control Panel Tour
 
-Let's take a detailed tour of your Craft CMS dashboard to understand how everything is organized.
+*Getting familiar with the Craft CMS interface and navigation*
+
+The Control Panel is your workspace for managing all website content. Rather than diving deep into specific features, this tour shows you where everything is located and how the interface is organized.
 
 ## Main Navigation
 
@@ -31,33 +33,13 @@ This is where you'll spend most of your time managing content:
   - Maintenance pages
 
 ### Global Settings
-Three important sections for site-wide management:
+Site-wide configuration accessible through three sections:
 
-[Screenshot: Global settings section - Company Info]
+[Screenshot: Global settings sections in sidebar navigation]
 
-- **Company Info**: Technical settings
-  - Contact Info
-  - Brand (Logos)
-  - Opening Hours
-  - Social Networks
-
-[Screenshot: Global settings section - Site Config]
-
-- **Site Config**: Technical settings
-  - Header and footer content
-  - Navigation menus
-  - Brand assets (logos, colors)
-  - Contact information
-  - Social media links
-
-[Screenshot: Global settings section - Global Content]
-
-- **Global Content**: Reusable content blocks
-  - Site-wide call-to-action sections
-  - Contact forms
-  - FAQ sections
-  - Testimonials
-  - Newsletter signups
+- **Company Info**: Business details, contact information, and brand assets
+- **Site Config**: Technical site settings and configurations  
+- **Global Content**: Reusable content elements used across multiple pages
 
 ## Working with Entries
 
@@ -71,8 +53,8 @@ When you click on any content type, you'll see a list of entries:
 - **Date**: When it was created or last modified
 - **Actions**: Edit, duplicate, or delete entries
 
-### Entry Groups
-Notice how entries are organized into logical groups rather than the generic "Posts" and "Pages" you might be used to from other systems.
+### Content Organization
+Entries are organized by purpose and content type rather than generic categories, making it easier to find related content.
 
 ## Content Editing Interface
 
@@ -121,43 +103,23 @@ Your browser's back button works normally - use it to navigate between sections.
 - **Ctrl/Cmd + S**: Save your work
 - **Ctrl/Cmd + Enter**: Save and continue editing
 
-## Organization Logic
+## Interface Organization
 
-The dashboard is organized by **content type** rather than **format**:
+The Control Panel groups related functionality together rather than separating by content format. This organizational approach helps you find tools and content based on what you're trying to accomplish.
 
-**Traditional CMS**: Posts vs Pages
-**Craft CMS**: Collections vs Content vs System
+## Next Steps
 
-This makes it easier to find and manage related content together.
+Now that you understand the Control Panel layout:
 
-## What's Different from WordPress?
+1. **Explore the sections** - Click through Entries, Global Settings, and other areas
+2. **Try the search** - Use it to find specific content quickly  
+3. **Open an existing entry** - See how content editing works
+4. **Ready to edit?** - Continue to [Your First Edit](first-edit.md)
 
-### No "Posts" and "Pages"
-Everything is an "Entry" but organized by purpose:
-- Blog content goes in "Collections"
-- Main site pages go in "Content"
-- Technical pages go in "System"
-
-### Two-Level Global Settings
-Instead of one "Settings" area:
-- **Site Config**: Technical site settings
-- **Global Content**: Reusable content elements
-
-### Content Block System
-Instead of a single content editor, you build pages with content blocks (more on this in [Your First Edit](first-edit.md)).
-
-## Getting Comfortable
-
-### Start Here:
-1. **Browse the Entries**: Click through Collections, Content, and System
-2. **Check Global Settings**: Look at Site Config and Global Content
-3. **Open an existing page**: See how content is structured
-4. **Try the search**: Find content quickly
-
-### Next Steps:
-- [Your First Edit](first-edit.md) - Start editing content
-- [Content Blocks](/content-blocks/) - Learn about flexible content
-- [Global Settings](/global-settings/) - Manage site-wide content
+For detailed information about specific areas, refer to:
+- [Content Blocks](/content-blocks/) - Building pages with flexible content
+- [Global Settings](/global-settings/) - Managing site-wide configuration  
+- [Navigation](/navigation/) - Organizing site menus and structure
 
 ---
 

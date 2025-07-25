@@ -51,7 +51,7 @@ Before you start editing content:
 
 Now that you're familiar with the basics, let's explore:
 - [Coming from WordPress](coming-from-wordpress.md) - If you're used to WordPress
-- [Control Panel Tour](dashboard-tour.md) - Detailed interface walkthrough
+- [Control Panel Tour](control-panel-tour.md) - Detailed interface walkthrough
 - [Your First Edit](first-edit.md) - Step-by-step content editing tutorial
 
 ---

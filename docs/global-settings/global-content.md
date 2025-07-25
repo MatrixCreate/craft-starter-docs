@@ -15,7 +15,7 @@ The Global Content section provides centralized management for content that can 
 [Screenshot: Call to Action tab showing Global CTA Image upload field, Global CTA Rich Text editor, Global CTA Action Buttons section, and color controls for heading, text, and background colors]
 
 Global call-to-action content used by CTA blocks site-wide:
-- **Global CTA Image** – Background or featured image for CTAs
+- **Global CTA Image** – Background or card image for CTAs
 - **Global CTA Rich Text** – Headline and descriptive text content
 - **Global CTA Action Buttons** – Button text, links, and styling
 - **Color Controls** – Heading, text, and background colors

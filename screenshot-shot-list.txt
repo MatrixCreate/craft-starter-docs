@@ -1,0 +1,180 @@
+# Screenshot Shot List - Craft CMS Documentation
+
+This is a sequential list of all 139 screenshots needed for the documentation, organized in the order they should be captured.
+
+## Getting Started Section (24 screenshots)
+
+1. Login screen showing username/password fields
+2. Control Panel overview with main navigation and content areas
+3. Left sidebar navigation showing all sections
+4. Entries section expanded showing Collections, Content, System
+5. Global settings sections in sidebar navigation
+6. Entry list showing pages with titles, status, and dates
+7. Entry editing interface showing Content, Hero, Card Details, Footer Content, SEO, Schema tabs
+8. Search bar in action
+9. User menu dropdown
+10. Breadcrumb navigation
+11. Entries sidebar showing Collections, Content, and System categories
+12. Content blocks interface showing different block types
+13. Entries > Content > Pages list
+14. Page editing interface showing all tabs - Content, Hero, Footer Content, SEO, Schema
+15. Content tab showing content blocks interface
+16. Content blocks selector showing different block types
+17. Adding a content block with the dropdown menu
+18. Text block editing interface with rich text editor
+19. Image upload interface showing "Add an image", "Upload a file", and "Search" options
+20. Color controls showing Heading Colour, Text Colour, Background Colour options
+21. Save button and options
+22. Publishing options showing Live, Disabled, Pending status
+23. Preview button or live preview option
+24. Global vs Local toggle in a content block
+
+## Content Fundamentals Section (26 screenshots)
+
+25. Sidebar showing Entries section with Singles, Collections, Content, and System categories
+26. Singles section showing "Homepage" entry
+27. Collections section showing Blog, Team, Testimonials
+28. Content section showing About, Services, Contact, etc.
+29. System section showing Blog Categories and Error Pages
+30. Diagram showing content relationships - blog posts linking to categories, team members appearing on multiple pages, testimonials displayed across different sections
+31. Side-by-side comparison showing WordPress Posts/Pages vs Craft's organized categories
+32. Navigation path from Entries to Blog posts list
+33. New Entry button and customized form fields for different content types
+34. Entry list showing status indicators, search bar, and bulk action options
+35. Content tab showing multiple content blocks stacked vertically with "Add Content Block" button at bottom
+36. Page editor showing tabs - Content, Hero, Card Details, Footer Content, SEO, Schema
+37. Content tab showing multiple content blocks arranged vertically
+38. Hero tab interface showing image upload, headline, and button options
+39. Card Details tab showing thumbnail image, title, and description fields
+40. Footer Content tab showing additional content blocks for page-specific footer elements
+41. SEO tab showing meta title, description, and social media preview cards
+42. Schema tab showing structured data options for different content types
+43. Page tree showing parent and child page relationships
+44. Hero tab showing "Enable Hero" toggle switch in enabled state
+45. Images section showing Desktop Image and Mobile Image upload areas with "Add an image" and "Upload a file" options, plus search functionality
+46. Text section showing Hero Title and Rich Text fields with formatting toolbars
+47. Action Buttons section showing "Nothing yet" state with "New Action Button" option
+48. The Card Details tab in the entry editor, showing the Card Image, Excerpt, and Icon fields clearly
+49. The entry editing interface with the "Footer Content" tab highlighted and active
+50. The Footer Content tab showing the "+ Add a block" button, allowing the user to add content blocks like Text, Call to Action, or Entry Cards
+
+## Page Management Section (9 screenshots)
+
+51. The Entries screen with the "Content → Pages" section selected and the "+ New entry" button highlighted
+52. The top of the entry editing screen, showing the "Title" field being filled in
+53. The Content tab with the "+ Add a block" button being clicked, showing the dropdown menu of available content blocks
+54. The right-hand sidebar of the entry editor, with the "Parent" field highlighted and the page selection modal open
+55. The Entries list view, showing pages nested under their parents in a clear tree structure. The drag handles for reordering are visible
+56. A close-up of the right-hand sidebar in the entry editor, showing the "STATUS" section with the "Enabled" toggle switch in the on position
+57. The sidebar fields for "Post Date" and "Expiry Date", showing the calendar and time picker icons
+58. The red "Save" button in the top-right corner, with its dropdown arrow clicked to show the "Save and continue editing" option
+59. The top header of the entry editor, highlighting the "Preview" button
+
+## Content Blocks Section (39 screenshots)
+
+60. Content tab showing "Add Content Block" button at bottom
+61. Rich text editor interface with formatting toolbar
+62. Action Buttons section with "New Action Button" option
+63. Color controls showing Heading, Text, and Background color options
+64. "Use Global USPs" toggle switch
+65. Entry selection modal showing search and entry list
+66. Rich text editor showing paragraph dropdown, styles dropdown, formatting tools including bold button, and text area with word count
+67. Action Buttons section showing "Nothing yet" message and "New Action Button" option
+68. Color controls showing Heading Colour, Text Colour, and Background Colour sections with color swatches
+69. Image section showing "Add an image", "Upload a file", and search options
+70. Rich Text field showing formatting toolbar with paragraph styles, formatting options, and sample content "Introductory text. Lorem ipsum dolor sit amet." with 7 words count
+71. Action Buttons section showing "Nothing yet" state with "New Action Button" option
+72. Layout section showing Column Layout dropdown set to "Text Left - Image Right" and Mobile Layout dropdown set to "Image After Text"
+73. Colors section showing Heading Colour with color swatches including black (selected), white, light blue, blue, orange, yellow, and transparent options
+74. Rich Text field with formatting toolbar showing paragraph/styles dropdowns, formatting options, and empty text area with "0 words"
+75. Action Button section showing Entry dropdown, "New Window" toggle, Link "Choose" button, and Link Text field with "e.g. Read more" placeholder
+76. Display Options section showing "Number of Posts to Display" dropdown set to "9"
+77. Mobile Layout dropdown set to "Carousel"
+78. Three toggle switches - "Show Filters" (off), "Show Pagination" (off), "Load More Posts Without Reloading Page" (on)
+79. Call to Action block with "Use Global Call to Action" toggle enabled, showing blue info box stating "Global Call to Action can be edited in Globals > Global Content > Call to Action"
+80. Call to Action block with "Use Global Call to Action" toggle disabled, showing Rich Text field, Action Buttons section, and color controls including Heading Colour, Text Colour, Background Colour, and Background Image options
+81. Contact Form block with "Use Global Contact Form" toggle enabled, showing blue info box stating "Global Contact Form can be edited Globals > Global Content > Contact Form"
+82. Contact Form block with "Use Global Contact Form" toggle disabled, showing Image, Rich Text, Form fields, and extensive color controls
+83. Rich Text field with formatting toolbar showing paragraph/styles dropdowns and empty text area with "0 words"
+84. Entry Selection section showing toggle switch between "Automatic" and "Custom" options
+85. Toggle switch for "Show Current Entry's Own Children" in enabled state
+86. Color controls showing Heading Colour, Text Colour, and Background Colour sections with color swatches including black (selected), white, light blue, blue, orange, yellow, and transparent options
+87. FAQ block with "Use Global FAQ" toggle enabled and "Output FAQPage Schema" toggle enabled, showing blue info box stating "Global FAQ can be edited in Globals > Global Content > FAQ"
+88. FAQ block with "Use Global FAQ" toggle disabled, showing "Output FAQPage Schema" enabled, Rich Text field, Accordion Items section, behavior toggles, Action Button, and Heading Colour controls
+89. Rich Text field with formatting toolbar and empty text area with "0 words"
+90. Tabs section with "Add Tab" button
+91. Tab editing panel showing Tab Label field and Entries section with "Add an entry" button
+92. Color controls showing Heading Colour, Text Colour, and Background Colour sections with color swatches including black (selected), white, light blue, blue, orange, yellow, and transparent options
+93. Testimonials block with Rich Text field, blue info box stating "The Testimonials block can be edited in Globals → Global Content → Testimonials", and color controls for Heading Colour, Text Colour, and Background Colour
+94. USPs block with "Use Global USPs" toggle enabled
+95. USPs block with "Use Global USPs" toggle disabled, showing Rich Text field, USPs section with "Nothing yet" and "Add a USP" button, and color controls for Heading Colour, Text Colour, and Background Colour
+96. "Add a USP" slideout panel showing Icon field and Rich Text field with formatting toolbar
+97. Rich Text field with formatting toolbar and empty text area with "0 words"
+98. Video URL field with empty text input and Preview section below
+
+## Global Settings Section (21 screenshots)
+
+99. Craft CMS admin sidebar showing Globals section expanded with Company Info, Site Config, and Global Content options visible
+100. Globals navigation showing Company Info, Site Config, and Global Content in left sidebar with Company Info selected and highlighted
+101. Company Info main interface showing Contact Info, Brand, Opening Hours, and Social Networks tabs with Contact Info tab active
+102. Contact Info tab showing Contact Details section with Address, Email, Telephone, and Fax fields, followed by Location Map section with Location Map Embed Code field, and Legal section with Limited Company Number and Registered Address fields
+103. Brand tab showing Brand Logos section with three logo upload fields - Main Logo, Footer Logo, and Email Logo, each with "Add an image", "Upload a file", and "Search" options
+104. Opening Hours tab showing Opening Hours section with opening hours field, "Show Times in 24-Hour Format" toggle switch, and "Output LocalBusiness and Opening Hours Schema" toggle switch
+105. Social Networks tab showing Social Networks section with social media links field and options to add various social media platforms
+106. The Site Config main interface, showing the tabs for Header & Footer, Navigation, Content Blocks, Placeholders, and Scripts. The Header & Footer tab is active
+107. The Header & Footer tab within Site Config, showing the "Sticky Header" and "Hide Header on Scroll" toggles, and potentially fields for global footer content
+108. The Navigation tab within Site Config, showing options related to megamenu setup and mobile navigation behavior
+109. The Content Blocks tab within Site Config, showing global settings for content block styling or default images
+110. The Placeholders tab within Site Config, showing fields for uploading default images for various content types
+111. The Scripts tab within Site Config, showing text areas for custom HTML or analytics codes
+112. Globals navigation showing Global Content selected in left sidebar with Company Info, Site Config, and Global Content options visible
+113. Global Content main interface showing tabs for Call to Action, Contact Form, FAQ, USPs, Trust Links, Testimonials, and Newsletter Signup with Call to Action tab active
+114. Call to Action tab showing Global CTA Image upload field, Global CTA Rich Text editor, Global CTA Action Buttons section, and color controls for heading, text, and background colors
+115. Contact Form tab showing Global Contact Form Image upload field, Global Contact Form Rich Text editor, Global Contact Form selection dropdown, and color controls
+116. FAQ tab showing Global FAQ Rich Text editor, Global FAQ Accordion Items section with "Add Accordion Item" button, behavior toggle switches for "Open first item automatically" and "All items stay open", Global FAQ Action Button configuration, and color controls
+117. USPs tab showing Global USPs Rich Text editor, Global USPs section with "Add a USP" button, and color controls for heading, text, and background colors
+118. Trust Links tab showing trust link management interface with options to add certification links, partner logos, and trust badges
+119. Testimonials tab showing Global Testimonials Rich Text editor, "Testimonials Origin" toggle switch, Global Reviews Embed Code text field, and color controls for testimonial styling
+
+## Navigation Section (7 screenshots)
+
+120. Navigation overview showing Main Navigation, Mobile Main Navigation, Footer Navigation, Legal Navigation, and Action Buttons with their handles and Edit Settings options
+121. Main navigation interface with tree structure and entry/passive node indicators
+122. Main navigation "Include All Children" toggle for automatic navigation building
+123. Entry selection modal for navigation items
+124. Navigation entry editing showing title, URL, and parent relationship options
+125. Action Buttons interface showing button configuration options
+126. Action Buttons editing showing link options and styling controls
+
+## SEO & Marketing Section (5 screenshots)
+
+127. SEO sidebar navigation showing Dashboard, Global SEO, Content SEO, Site Settings, and Tracking Scripts options
+128. Global SEO interface showing meta templates and site-wide configuration
+129. Content SEO interface showing section-specific settings
+130. Entry editing interface showing Content, Hero, Card Details, Footer Content, SEO, and Schema tabs with SEO tab active and highlighted
+131. SEO tab interface showing SEO Settings tabs (General, X Twitter, Facebook, Sitemap), Google search preview with site favicon and URL, and various override toggle switches for SEO customization
+132. Schema markup interface showing structured data options
+
+## Assets Section (4 screenshots)
+
+133. Assets interface showing left sidebar with Images (selected), Brand Assets, Documents, Placeholders, and Temporary Uploads volumes, with main area displaying asset list including Text And Image Sample, GBH 8525, Avatar Placeholder, and Hero Slimline Placeholder files with details like filename, file size, and modification date
+134. The image editing screen. The `Title` field shows "Call to Action Image" and the `Alternative Text` field is empty, ready for input. The right sidebar displays technical details like filename, dimensions, and file size
+135. The Assets interface with the `Documents` volume selected, showing a list of files like `restaurant-menu.pdf` and `product-catalog.docx`
+136. The Assets interface with the `Brand Assets` volume selected. The file list might show logo variations like `logo-main.svg`, `logo-footer.png`, etc.
+
+## Additional Screenshots (3 screenshots)
+
+137. Alternative Poster Image section with "Add an image", "Upload a file", and "Search" buttons, plus blue info text "Choose an alternative poster image if you don't like the default option"
+138. "Play in Lightbox" toggle switch in disabled state
+139. Newsletter Signup tab showing newsletter form configuration fields, email marketing platform integration settings, and subscription confirmation options
+
+---
+
+Total Screenshots: 139
+
+Instructions for capturing:
+1. Follow this list in sequential order
+2. Take each screenshot as described based on the [Screenshot: ] placeholders in the documentation
+3. Save with timestamp or sequential naming
+4. Screenshots will be mapped back to documentation based on order captured
+5. All screenshots should reflect the actual Craft CMS interface as accurately as possible

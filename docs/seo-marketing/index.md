@@ -1,48 +1,41 @@
 # SEO & Marketing
 
-*Optimize your content for search engines and social media*
+*Managing search engine optimization and marketing tools in Craft CMS*
 
-## SEO Features
+Craft CMS handles search engine optimization through the SEOmatic plugin, providing both global settings and individual page controls. Rather than requiring manual meta tag management, the system automates SEO optimization while allowing customization when needed.
 
-### Page-Level SEO
-- Meta titles and descriptions
-- SEO title customization
-- Meta description optimization
-- URL structure and slugs
-- Search engine previews
+## What You'll Learn
 
-### Global SEO Settings
-- Site-wide SEO configuration
-- Default meta templates
-- SEO analytics and tracking
-- Sitemap generation
+- How SEO settings are organized between global templates and page-specific controls
+- The SEO tab interface for individual page optimization
+- Schema markup generation for enhanced search results
+- Integration between global SEO settings and content management
 
-### Schema Markup
-- Structured data for search engines
-- Business information schema
-- Article and blog post schema
-- Local business schema
+## In This Section
 
-### Social Media Optimization
-- Facebook Open Graph tags
-- Twitter Card optimization
-- Social media previews
-- Social sharing settings
+- **[Global SEO](global-seo.md)**: Site-wide SEO configuration and default templates
+- **[Content SEO](content-seo.md)**: Section-specific SEO settings and automation
+- **[Entry SEO](entry-seo.md)**: Page-level SEO controls and overrides
+- **[Schema Markup](schema.md)**: Structured data configuration and generation
 
-## Marketing Integration
+[Screenshot: SEO sidebar navigation showing Dashboard, Global SEO, Content SEO, Site Settings, and Tracking Scripts options]
 
-### Analytics
-- Google Analytics integration
-- Conversion tracking
-- Performance monitoring
-- SEO reporting
+## SEO Management Approach
 
-### Content Marketing
-- Blog SEO optimization
-- Content strategy support
-- Keyword optimization
-- Content performance tracking
+### Automated Optimization
+The SEOmatic plugin automatically generates meta titles, descriptions, and structured data based on content, reducing manual SEO work while maintaining optimization standards.
+
+### Global Templates
+Site-wide SEO settings provide consistent defaults across all content types, with automatic generation of social media tags, meta descriptions, and technical SEO elements.
+
+### Page-Level Control
+Individual entries include an SEO tab for customization and overrides when specific pages require unique optimization approaches.
+
+### Schema Integration  
+Structured data markup is automatically generated based on content type and can be customized through schema settings for enhanced search engine understanding.
+
+For comprehensive SEO configuration guidance, refer to the [SEOmatic documentation](https://nystudio107.com/docs/seomatic/).
 
 ---
 
-**Next**: Start with [Page-Level SEO](page-seo.md) for immediate improvements.
+*SEO management in Craft CMS provides comprehensive optimization tools while maintaining editorial simplicity.*

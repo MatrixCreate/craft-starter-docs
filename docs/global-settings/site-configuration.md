@@ -1,79 +1,61 @@
-# Site Config
+# Site Configuration
 
-*Technical settings and site-wide configuration*
+**Site Configuration** is where you manage the technical settings and default behaviors that affect your entire website. These settings are typically configured by a developer during setup, but it's useful for content editors to understand what's controlled here, as they influence how your content is displayed and how the site functions.
 
-[Screenshot: Globals navigation showing Site Config selected in left sidebar with Company Info, Site Config, and Global Content options visible]
+You can find these settings under **Globals → Site Config** in the main sidebar.
 
-[Screenshot: Site Config main interface showing Header & Footer, Navigation, Content Blocks, Placeholders, and Scripts tabs with Header & Footer tab active]
+[Screenshot: The Site Config main interface, showing the tabs for Header & Footer, Navigation, Content Blocks, Placeholders, and Scripts. The Header & Footer tab is active.]
 
-## Configuration Tabs
+## Configuration Tabs Overview
 
 ### Header & Footer
 
-[Screenshot: Header & Footer tab showing Header section with "Sticky Header" toggle switch and "Hide Header on Scroll" toggle switch, followed by footer configuration options]
+This tab controls the behavior and appearance of your site's main header and footer areas.
 
-Site header and footer configuration:
-- **Sticky Header** – Toggle to make header stick to top when scrolling
-- **Hide Header on Scroll** – Smart header that hides when scrolling down, shows when scrolling up
-- Footer content and links management
-- Header layout and behavior settings
+-   **Sticky Header**: Toggles whether the header remains fixed at the top of the screen as users scroll down.
+-   **Hide Header on Scroll**: A smart feature that hides the header when scrolling down to maximize screen space, and reveals it when scrolling up.
+-   **Footer Content**: Manages the global content and links that appear in the very bottom section of every page.
+
+[Screenshot: The Header & Footer tab within Site Config, showing the "Sticky Header" and "Hide Header on Scroll" toggles, and potentially fields for global footer content.]
 
 ### Navigation
 
-[Screenshot: Navigation tab showing megamenu configuration options, auto-hide navigation settings, main navigation menu structure fields, mobile navigation options, and breadcrumb settings]
+This section manages the overall behavior of your site's navigation menus, including advanced features like megamenus.
 
-Main site navigation configuration:
-- **Megamenu Configuration** – Enhanced dropdown menus with rich content and multiple columns
-- **Auto-hide Navigation** – Smart navigation that automatically hides/shows based on scroll direction
-- Main navigation menu structure and links
-- Mobile navigation settings and patterns
-- Navigation styling and behavior options
-- Breadcrumb configuration
+-   **Megamenu Configuration**: Settings for enhanced dropdown menus that can display rich content, multiple columns, or featured links.
+-   **Auto-hide Navigation**: Similar to the header, this can control whether the main navigation automatically hides or shows based on scroll direction.
+-   **Mobile Navigation**: Defines how the navigation behaves and appears on smaller screens, such as mobile phones and tablets.
+
+[Screenshot: The Navigation tab within Site Config, showing options related to megamenu setup and mobile navigation behavior.]
 
 ### Content Blocks
 
-[Screenshot: Content Blocks tab showing global content block settings, default styling options, global color scheme controls, and content block behavior configuration fields]
+This tab contains global settings that apply to all content blocks used across your site. These are often default styling or behavior options.
 
-Global settings for content blocks:
-- Default styling and layout options for content blocks
-- Global color schemes and typography settings
-- Content block behavior and functionality settings
-- Default images and placeholders for content blocks
+-   **Default Styling**: Sets the default appearance for various content blocks, ensuring visual consistency.
+-   **Global Color Scheme**: Defines the primary and secondary colors used throughout your site, which content blocks can then inherit.
+-   **Default Images/Placeholders**: Specifies fallback images or default content for blocks if specific content isn't provided.
+
+[Screenshot: The Content Blocks tab within Site Config, showing global settings for content block styling or default images.]
 
 ### Placeholders
 
-[Screenshot: Placeholders tab showing default image upload fields for various content types, fallback image options, placeholder text fields, and image optimization settings]
+This tab is dedicated to managing default content and fallback options for your site. These are used when specific content (like an image) is missing from an entry.
 
-Default content and fallback options:
-- Default images for various content types
-- Fallback images when content is missing
-- Placeholder text and content
-- Image sizing and optimization settings
-- Alt text for default images
+-   **Default Images**: Upload images that will be used as placeholders across the site if no specific image is assigned.
+-   **Fallback Text**: Define default text snippets that can be used when content fields are empty.
+
+[Screenshot: The Placeholders tab within Site Config, showing fields for uploading default images for various content types.]
 
 ### Scripts
 
-[Screenshot: Scripts tab showing text areas for custom HTML head code, custom HTML body code, analytics tracking code fields, and third-party integration script areas]
+This tab is primarily for developers to add custom code snippets to your website, such as analytics tracking codes or third-party integrations.
 
-- Custom HTML in site head
-- Custom HTML in site body
-- Analytics and tracking codes
-- Third-party integrations
+-   **Custom HTML**: Allows for injecting custom HTML into the `<head>` or `<body>` of your website.
+-   **Analytics/Tracking Codes**: Integrates tools like Google Analytics or other marketing tracking scripts.
 
-## WordPress Comparison
-- More comprehensive than WordPress Customizer
-- Better organization of settings
-- Enhanced logo and branding options
-- Integrated social media management
+[Screenshot: The Scripts tab within Site Config, showing text areas for custom HTML or analytics codes.]
 
 ---
 
-*Screenshot placeholders needed:*
-- [Site Config tabs interface]
-- [Header & Footer settings]
-- [Navigation management]
-- [Brand assets upload]
-- [General information form]
-- [Social networks settings]
-- [Placeholders management]
-- [Scripts interface]
+*While most Site Configuration settings are technical, understanding their purpose helps you appreciate how your content fits into the overall website structure and design.*

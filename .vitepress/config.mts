@@ -53,7 +53,7 @@ export default defineConfig({
         items: [
           { text: 'Welcome to Craft CMS', link: '/getting-started/welcome' },
           { text: 'Coming from WordPress', link: '/getting-started/coming-from-wordpress' },
-          { text: 'Control Panel Tour', link: '/getting-started/dashboard-tour' },
+          { text: 'Control Panel Tour', link: '/getting-started/control-panel-tour' },
           { text: 'Your First Edit', link: '/getting-started/first-edit' }
         ]
       },
@@ -61,18 +61,30 @@ export default defineConfig({
         text: 'Content Fundamentals',
         collapsed: true,
         items: [
+          { text: 'Overview', link: '/content-fundamentals/index' },
           { text: 'Content Types', link: '/content-fundamentals/content-types' },
-          { text: 'Block System', link: '/content-fundamentals/block-system' },
           { text: 'Page Structure', link: '/content-fundamentals/page-structure' },
-          { text: 'Publishing', link: '/content-fundamentals/publishing' }
+          { text: 'Content Blocks', link: '/content-fundamentals/content-blocks' },
+          { text: 'Hero', link: '/content-fundamentals/hero' },
+          { text: 'Card Details', link: '/content-fundamentals/card-details' },
+          { text: 'Footer Content', link: '/content-fundamentals/footer-content' },
+        ]
+      },
+      {
+        text: 'Page Management',
+        collapsed: true,
+        items: [
+          { text: 'Overview', link: '/page-management/index' },
+          { text: 'Creating Pages', link: '/page-management/creating-pages' },
+          { text: 'Organization', link: '/page-management/organization' },
+          { text: 'Publishing', link: '/page-management/publishing' },
         ]
       },
       {
         text: 'Content Blocks',
         collapsed: true,
         items: [
-          { text: 'Overview', link: '/content-blocks/overview' },
-          { text: 'Hero', link: '/content-blocks/hero' },
+          { text: 'Overview', link: '/content-blocks/' },
           { text: 'Text', link: '/content-blocks/text' },
           { text: 'Text & Image', link: '/content-blocks/text-image' },
           { text: 'Call to Action', link: '/content-blocks/call-to-action' },
@@ -88,38 +100,42 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Page Management',
-        collapsed: true,
-        items: [
-          { text: 'Creating Pages', link: '/page-management/creating-pages' },
-          { text: 'Hero Sections', link: '/page-management/hero-sections' },
-          { text: 'Footer Content', link: '/page-management/footer-content' },
-          { text: 'Organization', link: '/page-management/organization' }
-        ]
-      },
-      {
         text: 'Global Settings',
         collapsed: true,
         items: [
+          { text: 'Overview', link: '/global-settings/' },
           { text: 'Company Info', link: '/global-settings/company-info' },
           { text: 'Site Config', link: '/global-settings/site-configuration' },
           { text: 'Global Content', link: '/global-settings/global-content' }
         ]
       },
       {
+        text: 'Navigation',
+        collapsed: true,
+        items: [
+          { text: 'Overview', link: '/navigation/' },
+          { text: 'Main Navigation', link: '/navigation/main-navigation' },
+          { text: 'Footer Navigation', link: '/navigation/footer-navigation' },
+          { text: 'Legal Navigation', link: '/navigation/legal-navigation' },
+          { text: 'Action Buttons', link: '/navigation/action-buttons' },
+        ]
+      },
+      {
         text: 'SEO & Marketing',
         collapsed: true,
         items: [
-          { text: 'Page SEO', link: '/seo-marketing/page-seo' },
+          { text: 'Overview', link: '/seo-marketing/index' },
           { text: 'Global SEO', link: '/seo-marketing/global-seo' },
+          { text: 'Content SEO', link: '/seo-marketing/content-seo' },
+          { text: 'Entry SEO', link: '/seo-marketing/entry-seo' },
           { text: 'Schema Markup', link: '/seo-marketing/schema' },
-          { text: 'Social Media', link: '/seo-marketing/social-media' }
         ]
       },
       {
         text: 'Assets',
         collapsed: true,
         items: [
+          { text: 'Overview', link: '/assets/' },
           { text: 'Images', link: '/assets/images' },
           { text: 'Documents', link: '/assets/documents' },
           { text: 'Brand Assets', link: '/assets/brand-assets' }

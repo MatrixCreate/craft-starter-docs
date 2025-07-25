@@ -1,44 +1,47 @@
-# Creating Pages
+# Creating New Pages
 
-*Step-by-step guide to creating new pages*
+Creating a new page in Craft CMS is a straightforward process. This guide will walk you through the steps from creation to building out your content.
 
-## Creating a New Page
+## 1. Create the New Entry
 
-### Starting Page Creation
-- Navigate to Entries → Pages in admin sidebar
-- Click "New entry" button
-- Choose entry type if multiple page types available
+First, you need to create the page entry itself:
 
-### Page Information Fields
-- **Title** – Page title and automatic URL slug generation
-- **Featured Image** – Main image for the page (used in cards, social sharing)
-- **Excerpt** – Brief description for page summaries and previews
-- **Page Status** – Draft, enabled, or disabled
+1.  Navigate to **Entries** in the main sidebar.
+2.  Select the appropriate section for your new page (e.g., **Content → Pages** for a standard page or **Collections → Blog** for a new blog post).
+3.  Click the **+ New entry** button in the top-right corner.
 
-### Content Building with Blocks
-- **Content Blocks Matrix** – Add and arrange content blocks
-- Drag and drop block ordering
-- Block-specific settings and styling
-- Preview blocks as you build
+[Screenshot: The Entries screen with the "Content → Pages" section selected and the "+ New entry" button highlighted.]
 
-### Page Settings Tab
-- **URL Slug** – Custom URL path
-- **Parent Page** – Page hierarchy and navigation structure
-- **Template** – Custom template selection (if multiple available)
-- **Publication Date** – Scheduling and timing
+## 2. Add the Title
 
-### SEO Configuration
-- **SEO Title** – Custom title for search engines
-- **Meta Description** – Search result snippet text  
-- **Social Media Images** – Open Graph and Twitter card images
-- **Schema Markup** – Structured data configuration
+The very first thing you should do is give your page a **Title**. The title is the main heading for your page and is also used to automatically create the page's URL (or "slug").
 
-### Publishing Workflow
-- **Save as Draft** – Work in progress, not visible to public
-- **Preview** – Test page appearance before going live
-- **Publish** – Make page live on the website
-- **Schedule Publishing** – Set future publication date
+[Screenshot: The top of the entry editing screen, showing the "Title" field being filled in.]
+
+## 3. Build Your Content
+
+With the title in place, you can now build the body of your page using the block-based editor in the **Content** tab.
+
+1.  Scroll down to the **Content** section.
+2.  Click the **+ Add a block** button to open the list of available content blocks.
+3.  Select the block you want to add (e.g., a `Text` block for paragraphs, or a `Text & Image` block for a mixed layout).
+4.  Fill in the fields for that block.
+5.  Continue adding blocks in the order you want them to appear on the page. You can always reorder them later by dragging and dropping.
+
+[Screenshot: The Content tab with the "+ Add a block" button being clicked, showing the dropdown menu of available content blocks.]
+
+## 4. Fill in Other Tabs
+
+Once your main content is in place, click through the other tabs at the top of the editor to add the finishing touches:
+
+-   **Hero**: Add a compelling header image and title for the top of your page.
+-   **Card Details**: Add the image and excerpt that will be used when this page is featured in lists elsewhere on the site.
+-   **SEO**: Fine-tune the page's title and meta description for search engines.
+
+## 5. Save and Publish
+
+When you are ready, you can save your work using the buttons in the top-right corner. See the [Publishing Workflow](publishing.md) guide for a detailed explanation of the different saving and publishing options.
 
 ---
 
-*Creating pages involves building content with flexible blocks and configuring settings for SEO and site structure.*
+*By following these steps, you can quickly and efficiently create well-structured, complete pages ready for your audience.*

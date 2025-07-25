@@ -67,7 +67,7 @@ The Blog Listing block automatically displays blog posts from your Collections �
 
 ## Blog Post Display
 Each blog post displays as a card containing:
-- **Featured Image** – Post's featured image (if available)
+- **Featured Image** – Post's card image (if available)
 - **Title** – Post title linking to full article
 - **Excerpt** – Brief summary of the post content
 - **Read More Link** – Call-to-action to view full post

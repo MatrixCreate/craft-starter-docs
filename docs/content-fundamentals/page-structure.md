@@ -29,9 +29,9 @@ The Content tab uses the block system to let you build flexible page layouts. Yo
 - Each block has its own editing interface and design options
 - Preview your changes to see how the page looks to visitors
 
-## Hero Section
+## Hero
 
-The hero section creates the large header area that appears at the top of most pages.
+The Hero section creates the large header area that appears at the top of most pages.
 
 [Screenshot: Hero tab interface showing image upload, headline, and button options]
 

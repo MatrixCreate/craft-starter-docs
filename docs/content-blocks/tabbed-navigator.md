@@ -2,7 +2,7 @@
 
 *Organize content with tabbed interface and entry cards*
 
-The Tabbed Navigator block creates an interactive tabbed interface that displays different sets of entries organized by categories or sections. Each tab contains entry cards with featured images, titles, excerpts, and links.
+The Tabbed Navigator block creates an interactive tabbed interface that displays different sets of entries organized by categories or sections. Each tab contains entry cards with card images, titles, excerpts, and links.
 
 ## Fields
 
@@ -38,7 +38,7 @@ When adding a tab, you configure:
 **Entries section** – Collection of entries to display in the tab
 - "Add an entry" button to select content
 - Choose from existing entries across the site
-- Each entry displays as a card with featured image, title, and excerpt
+- Each entry displays as a card with card image, title, and excerpt
 
 ### Color Controls
 
@@ -55,7 +55,7 @@ When adding a tab, you configure:
 
 Each entry selected for a tab displays as a card with:
 
-**Featured Image** – Entry's featured image (if available)
+**Featured Image** – Entry's card image (if available)
 - Automatically pulled from the entry
 - Consistent sizing across all cards
 

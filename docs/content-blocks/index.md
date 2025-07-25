@@ -1,8 +1,29 @@
 # Content Blocks
 
-*Overview of the content block system and common functionality*
+*Flexible content components for building pages*
 
 Content blocks are modular components used to build pages in the Content tab of entries. Instead of a single text editor, you combine different block types to create flexible page layouts. Each block handles specific content types with their own fields and design options.
+
+## What You'll Learn
+
+-   What Content Blocks are and how they create flexible page layouts.
+-   The common features shared across most blocks, such as color controls and action buttons.
+-   The difference between "Global" and "Local" content options.
+
+## In This Section
+
+-   **[Blog Listing](blog-listing.md)**: Automatically display a list of your latest blog posts.
+-   **[Call to Action](call-to-action.md)**: Create prominent buttons and links to guide user actions.
+-   **[Contact Form](contact-form.md)**: Add inquiry forms to your pages.
+-   **[Contact & Location](contact-location.md)**: Display business contact information with an embedded map.
+-   **[Entry Cards](entry-cards.md)**: Feature links to other site content in a visual card format.
+-   **[FAQ](faq.md)**: Create expandable question-and-answer sections.
+-   **[Tabbed Navigator](tabbed-navigator.md)**: Organize content into an interactive tabbed interface.
+-   **[Testimonials](testimonials.md)**: Showcase customer reviews in a carousel.
+-   **[Text & Image](text-image.md)**: Combine rich text with images in flexible layouts.
+-   **[Text](text.md)**: A simple, flexible block for any formatted text content.
+-   **[USPs](usps.md)**: Highlight your unique selling points with icons and text.
+-   **[Video](video.md)**: Embed videos from YouTube or Vimeo.
 
 ## Adding Content Blocks
 
@@ -15,26 +36,6 @@ Content blocks are added in the Content tab when editing entries.
 2. Go to the Content tab
 3. Scroll to bottom and click "Add Content Block"
 4. Select the block type from the dropdown
-
-## Available Block Types
-
-[Screenshot: Content block dropdown showing all available options]
-
-The system includes these content blocks:
-
-- **Hero** – Large page headers with background images
-- **Text** – Rich text editor for formatted content
-- **Text & Image** – Text with accompanying images
-- **Call to Action** – Conversion-focused sections with buttons
-- **Blog Listing** – Automated display of blog posts
-- **Contact Form** – Inquiry forms with spam protection
-- **Contact & Location** – Business information with maps
-- **Entry Cards** – Links to other site content
-- **FAQ** – Expandable question and answer sections
-- **Testimonials** – Customer reviews and social proof
-- **USPs** – Unique selling proposition highlights
-- **Tabbed Navigator** – Multi-section tabbed content
-- **Video** – Embedded video content
 
 ## Common Block Features
 

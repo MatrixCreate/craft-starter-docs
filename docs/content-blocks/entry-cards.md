@@ -31,7 +31,7 @@ The Entry Cards block creates visual cards that link to other content on your si
 **Show Current Entry's Own Children toggle** – When enabled in Automatic mode, displays child pages of the current entry
 - Useful for parent pages that need to show their sub-pages
 - Automatically creates cards for all child entries
-- Cards use child entry titles, excerpts, and featured images
+- Cards use child entry titles, excerpts, and card images
 
 ### Color Controls
 
@@ -52,7 +52,7 @@ When **Automatic** is selected:
 
 **With "Show Current Entry's Own Children" enabled:**
 - Displays all child entries of the current page
-- Each child becomes a card with its title, excerpt, and featured image
+- Each child becomes a card with its title, excerpt, and card image
 - Links directly to the child entry
 - Perfect for parent pages showing sub-pages
 
@@ -65,7 +65,7 @@ When **Automatic** is selected:
 
 When **Custom** is selected:
 - Allows manual configuration of each card
-- Can use entry details (title, excerpt, featured image) or custom content
+- Can use entry details (title, excerpt, card image) or custom content
 - More control over card appearance and content
 - Can mix different entry types in the same card set
 
@@ -74,13 +74,13 @@ When **Custom** is selected:
 **From linked entries:**
 - **Title** – Uses the entry's title or custom link text
 - **Text** – Uses the entry's excerpt or summary
-- **Image** – Uses the entry's featured image
+- **Image** – Uses the entry's card image
 - **Link** – Links to the entry's URL
 
 **Custom content:**
 - **Custom headings** – Override entry titles with custom text
 - **Custom descriptions** – Replace excerpts with specific text
-- **Custom images** – Use different images than the entry's featured image
+- **Custom images** – Use different images than the entry's card image
 - **Custom links** – Link to different destinations
 
 ## Usage
