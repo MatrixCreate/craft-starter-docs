@@ -167,7 +167,7 @@ Always preview your changes before publishing.
 Make small changes first to get comfortable with the interface.
 
 ### Ask for Help
-Check the [Help & Support](/help/) section if you get stuck.
+Check the [Help & Support](/help/faq) section if you get stuck.
 
 ---
 

@@ -175,9 +175,9 @@ Each content type has a "New Entry" button that opens a form customized for that
 ### Next Steps
 
 Once you understand how content is organized:
-- [Block System](block-system.md) – Learn about flexible page building
+- [Content Blocks](content-blocks.md) – Learn about flexible page building
 - [Page Structure](page-structure.md) – Understand how individual pages work  
-- [Publishing](publishing.md) – Master the publishing workflow
+- [Publishing](/page-management/publishing) – Master the publishing workflow
 
 ---
 

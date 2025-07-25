@@ -56,4 +56,4 @@ Now that you're familiar with the basics, let's explore:
 
 ---
 
-*Need help? Check our [Help & Support](/help/) section for common questions.*
+*Need help? Check our [Help & Support](/help/faq) section for common questions.*

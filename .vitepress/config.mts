@@ -140,6 +140,15 @@ export default defineConfig({
           { text: 'Documents', link: '/assets/documents' },
           { text: 'Brand Assets', link: '/assets/brand-assets' }
         ]
+      },
+      {
+        text: 'Help & Support',
+        collapsed: true,
+        items: [
+          { text: 'Overview', link: '/help/index' },
+          { text: 'FAQ', link: '/help/faq' },
+          { text: 'Contact Support', link: '/help/contact-support' },
+        ]
       }
     ],
 

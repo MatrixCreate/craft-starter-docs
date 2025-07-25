@@ -36,9 +36,9 @@ Coming from WordPress? Our [WordPress User Guide](/getting-started/coming-from-w
 
 ## Need Help?
 
-- Check our [Help & Support](/help/) section for common issues
-- View the [WordPress Feature Guide](/help/wordpress-mapping) for familiar features
-- Learn about [Global vs Local Content](/help/global-vs-local) concepts
+- Check our [Help & Support](/help/faq) section for common issues
+- View the [WordPress Feature Guide](/getting-started/coming-from-wordpress) for familiar features
+- Learn about [Global vs Local Content](/content-fundamentals/) concepts
 
 ---
 

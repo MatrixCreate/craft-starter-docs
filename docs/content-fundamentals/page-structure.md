@@ -203,8 +203,8 @@ Pages can be organized in a hierarchy that affects both URLs and navigation.
 ### Next Steps
 
 Once you understand page structure:
-- [Block System](block-system.md) – Deep dive into content blocks and layout options
-- [Publishing](publishing.md) – Learn the workflow from draft to published content
+- [Content Blocks](content-blocks.md) – Deep dive into content blocks and layout options
+- [Publishing](/page-management/publishing) – Learn the workflow from draft to published content
 - [Content Types](content-types.md) – Understand how different page types use structure differently
 
 ---
