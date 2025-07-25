@@ -8,13 +8,13 @@ When editing any page in Craft CMS, you'll see multiple tabs across the top of t
 
 Every page is divided into several organized sections, each with its own purpose.
 
-[Screenshot: Page editor showing tabs - Content, Hero, Card Details, Footer Content, SEO, Schema]
+![Page editor showing tabs - Content, Hero, Card Details, Footer Content, SEO, Schema](./screenshots/036.png)
 
 ## Content Tab
 
 This is where you'll spend most of your time building the main body of your page.
 
-[Screenshot: Content tab showing multiple content blocks arranged vertically]
+![Content tab showing multiple content blocks arranged vertically](./screenshots/037.png)
 
 The Content tab uses the block system to let you build flexible page layouts. You can add text blocks, images, testimonials, contact forms, and other content types in any order you need.
 
@@ -33,7 +33,7 @@ The Content tab uses the block system to let you build flexible page layouts. Yo
 
 The Hero section creates the large header area that appears at the top of most pages.
 
-[Screenshot: Hero tab interface showing image upload, headline, and button options]
+![Hero tab interface showing image upload, headline, and button options](./screenshots/038.png)
 
 Unlike content blocks, the hero section has a fixed structure designed specifically for page introductions. It typically includes a background image, headline, description, and call-to-action button.
 
@@ -54,7 +54,7 @@ Unlike content blocks, the hero section has a fixed structure designed specifica
 
 This tab controls how your page appears when it's displayed as a card or preview on other parts of your site.
 
-[Screenshot: Card Details tab showing thumbnail image, title, and description fields]
+![Card Details tab showing thumbnail image, title, and description fields](./screenshots/039.png)
 
 **Card elements:**
 - **Card image** – Thumbnail that represents the page
@@ -72,7 +72,7 @@ This tab controls how your page appears when it's displayed as a card or preview
 
 Add page-specific elements that appear in the footer area, separate from the site-wide footer.
 
-[Screenshot: Footer Content tab showing additional content blocks for page-specific footer elements]
+![Footer Content tab showing additional content blocks for page-specific footer elements](./screenshots/040.png)
 
 **Footer content uses:**
 - **Related links** – Links to similar pages or resources
@@ -88,7 +88,7 @@ Add page-specific elements that appear in the footer area, separate from the sit
 
 Control how your page appears in search engines and social media shares.
 
-[Screenshot: SEO tab showing meta title, description, and social media preview cards]
+![SEO tab showing meta title, description, and social media preview cards](./screenshots/041.png)
 
 ### Basic SEO
 
@@ -113,7 +113,7 @@ Summarize the page content in 150-160 characters to encourage clicks.
 
 Structured data that helps search engines understand your content better.
 
-[Screenshot: Schema tab showing structured data options for different content types]
+![Schema tab showing structured data options for different content types](./screenshots/042.png)
 
 **Schema types available:**
 - **Organization** – Company information and contact details
@@ -133,7 +133,7 @@ Structured data that helps search engines understand your content better.
 
 Pages can be organized in a hierarchy that affects both URLs and navigation.
 
-[Screenshot: Page tree showing parent and child page relationships]
+![Page tree showing parent and child page relationships](./screenshots/043.png)
 
 **Parent pages** contain child pages, creating organized site sections:
 - Services (parent)

@@ -4,13 +4,13 @@ This is a sequential list of all 139 screenshots needed for the documentation, o
 
 ## Getting Started Section (24 screenshots)
 
-1. Login screen showing username/password fields
-2. Control Panel overview with main navigation and content areas
-3. Left sidebar navigation showing all sections
+1. Login screen showing username/password fields (https://craft-starter.test/admin/login)
+2. Control Panel overview with main navigation and content areas (https://craft-starter.test/admin/dashboard)
+3. Left sidebar navigation showing all sections (https://craft-starter.test/admin/dashboard) - [XPATH/DOM Element: header#global-sidebar]
 4. Entries section expanded showing Collections, Content, System
-5. Global settings sections in sidebar navigation
-6. Entry list showing pages with titles, status, and dates
-7. Entry editing interface showing Content, Hero, Card Details, Footer Content, SEO, Schema tabs
+5. Global settings sections in sidebar navigation (https://craft-starter.test/admin/globals/companyInfo)
+6. Entry list showing pages with titles, status, and dates (https://craft-starter.test/admin/entries?source=*)
+7. Entry editing interface showing Content, Hero, Card Details, Footer Content, SEO, Schema tabs (https://craft-starter.test/admin/entries/pages/3878-seo-template)
 8. Search bar in action
 9. User menu dropdown
 10. Breadcrumb navigation
@@ -32,37 +32,37 @@ This is a sequential list of all 139 screenshots needed for the documentation, o
 ## Content Fundamentals Section (26 screenshots)
 
 25. Sidebar showing Entries section with Singles, Collections, Content, and System categories
-26. Singles section showing "Homepage" entry
-27. Collections section showing Blog, Team, Testimonials
-28. Content section showing About, Services, Contact, etc.
-29. System section showing Blog Categories and Error Pages
+26. Singles section showing "Homepage" entry (https://craft-starter.test/admin/entries/singles?source=singles)
+27. Collections section showing Blog, Team, Testimonials (https://craft-starter.test/admin/entries/blog)
+28. Content section showing About, Services, Contact, etc. (https://craft-starter.test/admin/entries/pages)
+29. System section showing Blog Categories and Error Pages (https://craft-starter.test/admin/entries/blogCategories)
 30. Diagram showing content relationships - blog posts linking to categories, team members appearing on multiple pages, testimonials displayed across different sections
 31. Side-by-side comparison showing WordPress Posts/Pages vs Craft's organized categories
 32. Navigation path from Entries to Blog posts list
 33. New Entry button and customized form fields for different content types
 34. Entry list showing status indicators, search bar, and bulk action options
 35. Content tab showing multiple content blocks stacked vertically with "Add Content Block" button at bottom
-36. Page editor showing tabs - Content, Hero, Card Details, Footer Content, SEO, Schema
-37. Content tab showing multiple content blocks arranged vertically
-38. Hero tab interface showing image upload, headline, and button options
-39. Card Details tab showing thumbnail image, title, and description fields
-40. Footer Content tab showing additional content blocks for page-specific footer elements
+36. Page editor showing tabs - Content, Hero, Card Details, Footer Content, SEO, Schema (https://craft-starter.test/admin/entries/pages/3878-seo-template#tab01-content)
+37. Content tab showing multiple content blocks arranged vertically (https://craft-starter.test/admin/entries/pages/3878-seo-template#tab01-content)
+38. Hero tab interface showing image upload, headline, and button options (https://craft-starter.test/admin/entries/pages/3878-seo-template#tab02-hero)
+39. Card Details tab showing thumbnail image, title, and description fields (https://craft-starter.test/admin/entries/pages/3878-seo-template#tab03-card-details)
+40. Footer Content tab showing additional content blocks for page-specific footer elements (https://craft-starter.test/admin/entries/pages/3878-seo-template#tab04-footer-content)
 41. SEO tab showing meta title, description, and social media preview cards
 42. Schema tab showing structured data options for different content types
 43. Page tree showing parent and child page relationships
-44. Hero tab showing "Enable Hero" toggle switch in enabled state
+44. Hero tab showing "Enable Hero" toggle switch in enabled state (https://craft-starter.test/admin/entries/pages/3878-seo-template#tab02-hero)
 45. Images section showing Desktop Image and Mobile Image upload areas with "Add an image" and "Upload a file" options, plus search functionality
 46. Text section showing Hero Title and Rich Text fields with formatting toolbars
 47. Action Buttons section showing "Nothing yet" state with "New Action Button" option
-48. The Card Details tab in the entry editor, showing the Card Image, Excerpt, and Icon fields clearly
+48. The Card Details tab in the entry editor, showing the Card Image, Excerpt, and Icon fields clearly (https://craft-starter.test/admin/entries/pages/3878-seo-template#tab03-card-details)
 49. The entry editing interface with the "Footer Content" tab highlighted and active
-50. The Footer Content tab showing the "+ Add a block" button, allowing the user to add content blocks like Text, Call to Action, or Entry Cards
+50. The Footer Content tab showing the "+ Add a block" button, allowing the user to add content blocks like Text, Call to Action, or Entry Cards (https://craft-starter.test/admin/entries/pages/3878-seo-template#tab04-footer-content)
 
 ## Page Management Section (9 screenshots)
 
 51. The Entries screen with the "Content → Pages" section selected and the "+ New entry" button highlighted
 52. The top of the entry editing screen, showing the "Title" field being filled in
-53. The Content tab with the "+ Add a block" button being clicked, showing the dropdown menu of available content blocks
+53. The Content tab with the "+ Add a block" button being clicked, showing the dropdown menu of available content blocks 
 54. The right-hand sidebar of the entry editor, with the "Parent" field highlighted and the page selection modal open
 55. The Entries list view, showing pages nested under their parents in a clear tree structure. The drag handles for reordering are visible
 56. A close-up of the right-hand sidebar in the entry editor, showing the "STATUS" section with the "Enabled" toggle switch in the on position

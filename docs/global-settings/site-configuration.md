@@ -4,7 +4,7 @@
 
 You can find these settings under **Globals → Site Config** in the main sidebar.
 
-[Screenshot: The Site Config main interface, showing the tabs for Header & Footer, Navigation, Content Blocks, Placeholders, and Scripts. The Header & Footer tab is active.]
+![The Site Config main interface, showing the tabs for Header & Footer, Navigation, Content Blocks,...](./screenshots/106.png)
 
 ## Configuration Tabs Overview
 
@@ -16,8 +16,6 @@ This tab controls the behavior and appearance of your site's main header and foo
 -   **Hide Header on Scroll**: A smart feature that hides the header when scrolling down to maximize screen space, and reveals it when scrolling up.
 -   **Footer Content**: Manages the global content and links that appear in the very bottom section of every page.
 
-[Screenshot: The Header & Footer tab within Site Config, showing the "Sticky Header" and "Hide Header on Scroll" toggles, and potentially fields for global footer content.]
-
 ### Navigation
 
 This section manages the overall behavior of your site's navigation menus, including advanced features like megamenus.
@@ -26,7 +24,7 @@ This section manages the overall behavior of your site's navigation menus, inclu
 -   **Auto-hide Navigation**: Similar to the header, this can control whether the main navigation automatically hides or shows based on scroll direction.
 -   **Mobile Navigation**: Defines how the navigation behaves and appears on smaller screens, such as mobile phones and tablets.
 
-[Screenshot: The Navigation tab within Site Config, showing options related to megamenu setup and mobile navigation behavior.]
+![The Navigation tab within Site Config, showing options related to megamenu setup and mobile navigation behavior](./screenshots/108.png)
 
 ### Content Blocks
 
@@ -36,7 +34,7 @@ This tab contains global settings that apply to all content blocks used across y
 -   **Global Color Scheme**: Defines the primary and secondary colors used throughout your site, which content blocks can then inherit.
 -   **Default Images/Placeholders**: Specifies fallback images or default content for blocks if specific content isn't provided.
 
-[Screenshot: The Content Blocks tab within Site Config, showing global settings for content block styling or default images.]
+![The Content Blocks tab within Site Config, showing global settings for content block styling or default images](./screenshots/109.png)
 
 ### Placeholders
 
@@ -45,7 +43,7 @@ This tab is dedicated to managing default content and fallback options for your 
 -   **Default Images**: Upload images that will be used as placeholders across the site if no specific image is assigned.
 -   **Fallback Text**: Define default text snippets that can be used when content fields are empty.
 
-[Screenshot: The Placeholders tab within Site Config, showing fields for uploading default images for various content types.]
+![The Placeholders tab within Site Config, showing fields for uploading default images for various content types](./screenshots/110.png)
 
 ### Scripts
 
@@ -54,7 +52,7 @@ This tab is primarily for developers to add custom code snippets to your website
 -   **Custom HTML**: Allows for injecting custom HTML into the `<head>` or `<body>` of your website.
 -   **Analytics/Tracking Codes**: Integrates tools like Google Analytics or other marketing tracking scripts.
 
-[Screenshot: The Scripts tab within Site Config, showing text areas for custom HTML or analytics codes.]
+![The Scripts tab within Site Config, showing text areas for custom HTML or analytics codes](./screenshots/111.png)
 
 ---
 

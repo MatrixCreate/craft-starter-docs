@@ -4,7 +4,7 @@
 
 These controls are found in the **SEO** tab when you are editing any individual entry (whether it's a Page, a Blog post, or any other content type).
 
-[Screenshot: The entry editing interface with the "SEO" tab active. The Google Search Preview is visible at the top, followed by fields like "SEO Title" and "Meta Description".]
+![The entry editing interface with the "SEO" tab active. The Google Search Preview is visible at the top, followed by fields like "SEO Title" and "Meta Description"](./screenshots/entry-seo.png)
 
 ## Fine-Tuning a Single Entry
 

@@ -15,7 +15,7 @@ For complete technical documentation, visit the [official Craft CMS documentatio
 
 To access the Control Panel, you'll need to sign in:
 
-[Screenshot: Login screen showing username/password fields]
+![Login screen showing username/password fields](./screenshots/001.png)
 
 1. Navigate to your site's admin URL (usually `yoursite.com/admin`)
 2. Enter your username or email and password
@@ -32,7 +32,7 @@ If this is your first time logging in:
 
 After logging in, you'll see the main dashboard:
 
-[Screenshot: Control Panel overview with main navigation and content areas]
+![Control Panel overview with main navigation and content areas](./screenshots/002.png)
 
 ### Key Areas:
 - **Left Navigation**: Main menu for accessing different sections

@@ -10,13 +10,13 @@ First, you need to create the page entry itself:
 2.  Select the appropriate section for your new page (e.g., **Content → Pages** for a standard page or **Collections → Blog** for a new blog post).
 3.  Click the **+ New entry** button in the top-right corner.
 
-[Screenshot: The Entries screen with the "Content → Pages" section selected and the "+ New entry" button highlighted.]
+<img src="./screenshots/051.png" alt="The Entries screen with the Content → Pages section selected and the + New entry button highlighted" style="max-width: 250px">
 
 ## 2. Add the Title
 
 The very first thing you should do is give your page a **Title**. The title is the main heading for your page and is also used to automatically create the page's URL (or "slug").
 
-[Screenshot: The top of the entry editing screen, showing the "Title" field being filled in.]
+![The top of the entry editing screen, showing the "Title" field being filled in](./screenshots/052.png)
 
 ## 3. Build Your Content
 

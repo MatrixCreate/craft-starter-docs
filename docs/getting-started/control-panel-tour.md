@@ -8,12 +8,12 @@ The Control Panel is your workspace for managing all website content. Rather tha
 
 The left sidebar contains your main navigation, organized into logical sections:
 
-[Screenshot: Left sidebar navigation showing all sections]
+<img src="./screenshots/003.png" alt="Left sidebar navigation showing all sections" style="max-width: 250px">
 
 ### Entries Section
 This is where you'll spend most of your time managing content:
 
-[Screenshot: Entries section expanded showing Collections, Content, System]
+![Entries section expanded showing Collections, Content, System](./screenshots/004.png)
 
 - **Singles**: Special one-off pages
   - Homepage
@@ -35,7 +35,7 @@ This is where you'll spend most of your time managing content:
 ### Global Settings
 Site-wide configuration accessible through three sections:
 
-[Screenshot: Global settings sections in sidebar navigation]
+![Global settings sections in sidebar navigation](./screenshots/005.png)
 
 - **Company Info**: Business details, contact information, and brand assets
 - **Site Config**: Technical site settings and configurations  
@@ -46,7 +46,7 @@ Site-wide configuration accessible through three sections:
 ### Entry List View
 When you click on any content type, you'll see a list of entries:
 
-[Screenshot: Entry list showing pages with titles, status, and dates]
+![Entry list showing pages with titles, status, and dates](./screenshots/006.png)
 
 - **Title**: The name of your page or post
 - **Status**: Draft, Published, or Scheduled
@@ -60,7 +60,7 @@ Entries are organized by purpose and content type rather than generic categories
 
 When you edit any entry, you'll see multiple tabs:
 
-[Screenshot: Entry editing interface showing Content, Hero, Footer Content, SEO, Schema tabs]
+![Entry editing interface showing Content, Hero, Card Details, Footer Content, SEO, Schema tabs](./screenshots/007.png)
 
 ### Main Tabs:
 - **Content**: Your main page content (content blocks)
@@ -74,7 +74,7 @@ When you edit any entry, you'll see multiple tabs:
 ### Search
 Use the search bar to quickly find any content:
 
-[Screenshot: Search bar in action]
+![Search bar in action](./screenshots/008.png)
 
 - Search by title, content, or author
 - Filter by content type
@@ -83,7 +83,7 @@ Use the search bar to quickly find any content:
 ### User Menu
 In the top right corner, access your account settings:
 
-[Screenshot: User menu dropdown]
+![User menu dropdown](./screenshots/009.png)
 
 - Account settings
 - Change password
@@ -94,7 +94,7 @@ In the top right corner, access your account settings:
 ### Breadcrumbs
 Always know where you are in the system:
 
-[Screenshot: Breadcrumb navigation]
+![Breadcrumb navigation](./screenshots/010.png)
 
 ### Back Button
 Your browser's back button works normally - use it to navigate between sections.

@@ -15,7 +15,7 @@ Every entry has a single **Status** toggle, which you can find in the right-hand
 
 Instead of a "Scheduled" status, Craft uses dates to control when an entry becomes live and when it is automatically unpublished.
 
-[Screenshot: The sidebar fields for "Post Date" and "Expiry Date", showing the calendar and time picker icons.]
+<img src="./screenshots/057.png" alt="The sidebar fields for Post Date and Expiry Date, showing the calendar and time picker icons" style="max-width: 400px">
 
 ### Post Date
 
@@ -34,8 +34,6 @@ This is an optional date for automatically unpublishing content. Once the Expiry
 
 Craft provides several safe ways to save your progress.
 
-[Screenshot: The red "Save" button in the top-right corner, with its dropdown arrow clicked to show the "Save and continue editing" option.]
-
 -   **Save**: This is the primary save button. It saves your changes and takes you back to the main entries list.
 -   **Save and continue editing**: Access this by clicking the small arrow next to the Save button. It saves your changes but keeps you on the editing screen, which is useful for saving progress without losing your place.
 
@@ -47,7 +45,7 @@ Before you publish, you can see exactly how your page will look using the **Prev
 2.  This will open a new tab in your browser showing a live, interactive preview of the page, even if it's a draft.
 3.  This preview link is shareable! You can send the URL to colleagues for feedback before the page goes live. The link is temporary and secure.
 
-[Screenshot: The top header of the entry editor, highlighting the "Preview" button.]
+![The top header of the entry editor, highlighting the "Preview" button](./screenshots/059.png)
 
 ---
 

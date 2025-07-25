@@ -4,7 +4,7 @@ The **Global SEO** section, powered by the SEOmatic plugin, sets the baseline fo
 
 You can find these settings under **SEO → Global SEO** in the main sidebar.
 
-[Screenshot: The Global SEO page, highlighting the "General Settings" area with the Google Search Preview at the top.]
+![The Global SEO page, highlighting the General Settings area with the Google Search Preview at the top](./screenshots/global-seo.png)
 
 ## General Settings Explained
 

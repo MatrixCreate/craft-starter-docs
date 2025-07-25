@@ -8,8 +8,6 @@ The Contact Form block provides inquiry forms with spam protection and email not
 
 ### Global Contact Form
 
-[Screenshot: Contact Form block with "Use Global Contact Form" toggle enabled, showing blue info box stating "Global Contact Form can be edited Globals > Global Content > Contact Form"]
-
 **Use Global Contact Form toggle** – When enabled, uses centrally managed form
 - Form is managed in Globals → Global Content → Contact Form
 - Same contact form appears consistently across multiple pages
@@ -17,8 +15,6 @@ The Contact Form block provides inquiry forms with spam protection and email not
 - Useful for standard inquiry forms used throughout the site
 
 ### Local Contact Form
-
-[Screenshot: Contact Form block with "Use Global Contact Form" toggle disabled, showing Image, Rich Text, Form fields, and extensive color controls]
 
 **Use Global Contact Form toggle disabled** – Create page-specific form
 

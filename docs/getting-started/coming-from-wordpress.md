@@ -17,11 +17,12 @@ In WordPress, you have Posts and Pages. In Craft CMS, **everything is an Entry**
 
 Instead of WordPress's basic categorization, entries are organized into logical groups:
 
-[Screenshot: Entries sidebar showing Collections, Content, and System categories]
+<img src="./screenshots/011.png" alt="Entries sidebar showing Singles, Collections, Content, and System categories" style="max-width: 250px">
 
+- **Singles**: Homepage
 - **Collections**: Blog posts, team members, testimonials
 - **Content**: Main website pages
-- **System**: Technical pages like 404 errors
+- **System**: Blog categories, Technical pages like 404 errors
 
 ## Familiar Features
 
@@ -40,7 +41,7 @@ Instead of WordPress's basic categorization, entries are organized into logical 
 ### More Flexible Content Structure
 WordPress has a fixed structure for posts and pages. Craft CMS uses a **content block system** that lets you build custom page layouts:
 
-[Screenshot: Content blocks interface showing different block types]
+![Content blocks interface showing different block types](./screenshots/012.png)
 
 - Mix text, images, videos, and forms on any page
 - Reuse content blocks across different pages

@@ -29,7 +29,7 @@ Content blocks are modular components used to build pages in the Content tab of 
 
 Content blocks are added in the Content tab when editing entries.
 
-[Screenshot: Content tab showing "Add Content Block" button at bottom]
+<img src="./screenshots/060.png" alt="Content tab showing Add Content Block button at bottom" style="max-width: 275px">
 
 **To add blocks:**
 1. Open any entry for editing
@@ -45,7 +45,7 @@ Most content blocks share these standard features:
 
 Many blocks include rich text editors for content creation.
 
-[Screenshot: Rich text editor interface with formatting toolbar]
+<img src="./screenshots/061.png" alt="Rich text editor interface with formatting toolbar" style="max-width: 450px">
 
 **Rich text features:**
 - Paragraph styles and heading levels
@@ -57,7 +57,7 @@ Many blocks include rich text editors for content creation.
 
 Add calls-to-action to encourage visitor engagement.
 
-[Screenshot: Action Buttons section with "New Action Button" option]
+<img src="./screenshots/062.png" alt="Action Buttons section with New Action Button option" style="max-width: 450px">
 
 **Button functionality:**
 - Custom button text
@@ -68,7 +68,7 @@ Add calls-to-action to encourage visitor engagement.
 
 Customize block appearance with predefined colors.
 
-[Screenshot: Color controls showing Heading, Text, and Background color options]
+<img src="./screenshots/063.png" alt="Color controls showing Heading, Text, and Background color options" style="max-width: 400px">
 
 **Color options:**
 - **Heading Colour** – Color for block titles
@@ -81,7 +81,7 @@ Customize block appearance with predefined colors.
 
 Many blocks offer global vs local content choices.
 
-[Screenshot: "Use Global USPs" toggle switch]
+<img src="./screenshots/064.png" alt="Use Global Call to Action toggle switch" style="max-width: 450px">
 
 **Global content:**
 - Content managed centrally in Global Settings
@@ -96,7 +96,7 @@ Many blocks offer global vs local content choices.
 
 Some blocks can reference other site content.
 
-[Screenshot: Entry selection modal showing search and entry list]
+<img src="./screenshots/065.png" alt="Entry selection modal showing search and entry list" style="max-width: 325px">
 
 **Relationship features:**
 - Link to other pages, blog posts, or team members

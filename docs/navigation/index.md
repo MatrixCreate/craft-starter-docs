@@ -18,7 +18,7 @@ Craft CMS organizes navigation through five distinct navigation types, each serv
 - **[Legal Navigation](legal-navigation.md)**: Compliance and legal page links
 - **[Action Buttons](action-buttons.md)**: Prominent call-to-action navigation elements
 
-[Screenshot: Navigation overview showing Main Navigation, Mobile Main Navigation, Footer Navigation, Legal Navigation, and Action Buttons with their handles and Edit Settings options]
+![Navigation overview showing Main Navigation, Mobile Main Navigation, Footer Navigation, Legal Navigation, and Action Buttons...](./screenshots/120.png)
 
 ## Navigation Structure Concepts
 

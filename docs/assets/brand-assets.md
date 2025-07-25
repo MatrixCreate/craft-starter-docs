@@ -2,7 +2,7 @@
 
 The **Brand Assets** volume is a specialized repository for your company's core visual identity materials, primarily your logos. Unlike the main `Images` volume, the files here are not intended for day-to-day content editing.
 
-[Screenshot: The Assets interface with the `Brand Assets` volume selected. The file list might show logo variations like `logo-main.svg`, `logo-footer.png`, etc.]
+![The Assets interface with the `Brand Assets` volume selected. The file list might show logo...](./screenshots/136.png)
 
 ## Purpose of Brand Assets
 

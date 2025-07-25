@@ -2,7 +2,7 @@
 
 The **Documents** volume is designed specifically for hosting files that you intend for visitors to download. This is the place for PDFs, Word documents, or other files that aren't images but need to be accessible to the public from your website.
 
-[Screenshot: The Assets interface with the `Documents` volume selected, showing a list of files like `restaurant-menu.pdf` and `product-catalog.docx`.]
+![The Assets interface with the `Documents` volume selected, showing a list of files like `restaurant-menu.pdf`...](./screenshots/135.png)
 
 ## Purpose of the Documents Volume
 

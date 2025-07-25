@@ -21,7 +21,7 @@ Craft CMS organizes content using Entries, but unlike traditional systems where 
 
 In the Control Panel, the Entries section in the sidebar is grouped into four main categories:
 
-[Screenshot: Sidebar showing Entries section with Singles, Collections, Content, and System categories]
+<img src="./screenshots/011.png" alt="Entries sidebar showing Singles, Collections, Content, and System categories" style="max-width: 250px">
 
 ## Entry Categories
 
@@ -29,7 +29,7 @@ In the Control Panel, the Entries section in the sidebar is grouped into four ma
 
 These are unique, standalone pages that only appear once on the site.
 
-[Screenshot: Singles section showing "Homepage" entry]
+![Singles section showing "Homepage" entry](./screenshots/026.png)
 
 - **Homepage** – Your main landing page  
   Includes hero sections, featured content, calls to action, and other homepage-specific blocks.  
@@ -39,7 +39,7 @@ These are unique, standalone pages that only appear once on the site.
 
 These are content types made up of multiple entries that are usually displayed in lists or groups across the site.
 
-[Screenshot: Collections section showing Blog, Team, Testimonials]
+![Collections section showing Blog, Team, Testimonials](./screenshots/027.png)
 
 - **Blog** – Articles, news, or updates  
   Posts are dated and can be tagged or categorized.  
@@ -57,7 +57,7 @@ These are content types made up of multiple entries that are usually displayed i
 
 These are the main pages of your website—the ones visitors are likely to navigate to directly.
 
-[Screenshot: Content section showing About, Services, Contact, etc.]
+![Content section showing About, Services, Contact, etc.](./screenshots/028.png)
 
 - **About** – Company overview and mission
 - **Services** – What you offer
@@ -71,7 +71,7 @@ These pages form the backbone of your site and are typically included in the mai
 
 Supporting content that helps the site function properly.
 
-[Screenshot: System section showing Blog Categories and Error Pages]
+![System section showing Blog Categories and Error Pages](./screenshots/029.png)
 
 - **Blog Categories** – Used to organize blog content  
   Helps visitors find related posts and improves SEO.
@@ -84,8 +84,6 @@ Supporting content that helps the site function properly.
 ### How Different Types Work Together
 
 Content types are designed to complement each other across the site.
-
-[Screenshot: Diagram showing content relationships - blog posts linking to categories, team members appearing on multiple pages, testimonials displayed across different sections]
 
 **Blog posts connect to categories** for better organization and navigation. Visitors can filter posts by topic, and search engines better understand your content structure.
 
@@ -105,7 +103,7 @@ Content types are designed to complement each other across the site.
 
 WordPress users will recognize some concepts but find Craft's approach more structured.
 
-[Screenshot: Side-by-side comparison showing WordPress Posts/Pages vs Craft's organized categories]
+![Side-by-side comparison showing WordPress Posts/Pages vs Craft's organized categories](./screenshots/031.png)
 
 **WordPress approach:**
 - Posts for time-sensitive content
@@ -133,12 +131,10 @@ WordPress users will recognize some concepts but find Craft's approach more stru
 3. Select the specific content type
 4. Browse the list of entries
 
-[Screenshot: Navigation path from Entries to Blog posts list]
-
 **Create new entries:**
 Each content type has a "New Entry" button that opens a form customized for that type of content.
 
-[Screenshot: New Entry button and customized form fields for different content types]
+![New Entry button and customized form fields for different content types](./screenshots/033.png)
 
 **Entry features:**
 - **Custom fields** specific to each content type
@@ -146,7 +142,7 @@ Each content type has a "New Entry" button that opens a form customized for that
 - **Search and filtering** to find content quickly
 - **Bulk actions** for managing multiple entries
 
-[Screenshot: Entry list showing status indicators, search bar, and bulk action options]
+![Entry list showing status indicators, search bar, and bulk action options](./screenshots/034.png)
 
 ## Best Practices
 

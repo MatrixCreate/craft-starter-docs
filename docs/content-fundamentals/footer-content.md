@@ -8,13 +8,11 @@ This local footer content appears *above* the main global footer.
 
 When editing any entry, you can find the **Footer Content** tab alongside the other main editing tabs like Content and Hero.
 
-[Screenshot: The entry editing interface with the "Footer Content" tab highlighted and active.]
+![The entry editing interface with the "Footer Content" tab highlighted and active](./screenshots/049.png)
 
 ## How It Works
 
 The Footer Content tab works just like the main Content tab: it's a block-based editor where you can add any available content block. This gives you the flexibility to build out a unique footer section for any page.
-
-[Screenshot: The Footer Content tab showing the "+ Add a block" button, allowing the user to add content blocks like Text, Call to Action, or Entry Cards.]
 
 ### Common Use Cases
 

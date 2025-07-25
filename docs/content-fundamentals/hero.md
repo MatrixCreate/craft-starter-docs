@@ -13,15 +13,16 @@
 
 ### Enable Hero
 
-[Screenshot: Hero tab showing "Enable Hero" toggle switch in enabled state]
 
 **Enable Hero toggle** – Turn the hero section on or off for the page
 
+<img src="./screenshots/044.png" alt="Hero tab showing Enable Hero toggle switch in enabled state" style="max-width: 300px">
+
 **Slimline Design toggle** – Alternative design option (when available)
 
-### Images
+<img src="./screenshots/045.png" alt="Hero tab showing Slimline Design toggle switch in enabled state" style="max-width: 265px">
 
-[Screenshot: Images section showing Desktop Image and Mobile Image upload areas with "Add an image" and "Upload a file" options, plus search functionality]
+### Images
 
 **Desktop Image** – Main background image for larger screens
 - Add an image from existing assets or upload a new file
@@ -35,7 +36,7 @@
 
 ### Text
 
-[Screenshot: Text section showing Hero Title and Rich Text fields with formatting toolbars]
+![Text section showing Hero Title and Rich Text fields with formatting toolbars](./screenshots/046.png)
 
 **Hero Title** – Main headline field with rich text formatting
 - Heading styles (Heading 1, etc.)
@@ -51,7 +52,7 @@
 
 ### Action Buttons
 
-[Screenshot: Action Buttons section showing "Nothing yet" state with "New Action Button" option]
+![Action Buttons section showing "Nothing yet" state with "New Action Button" option](../content-blocks/screenshots/071.png)
 
 **Action Buttons** – Call-to-action buttons for the hero
 - Add multiple buttons using "New Action Button"

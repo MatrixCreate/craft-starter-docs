@@ -8,8 +8,6 @@ The Text & Image block combines rich text content with images in configurable la
 
 ### Image
 
-[Screenshot: Image section showing "Add an image", "Upload a file", and search options]
-
 **Image field** – Single image with upload and search options
 - Add an image from existing assets
 - Upload a new file directly
@@ -18,8 +16,6 @@ The Text & Image block combines rich text content with images in configurable la
 **Image layout settings** can be edited in Globals → Site Config → Content Blocks (as noted in the blue info box).
 
 ### Text
-
-[Screenshot: Rich Text field showing formatting toolbar with paragraph styles, formatting options, and sample content "Introductory text. Lorem ipsum dolor sit amet." with 7 words count]
 
 **Rich Text field** – Full rich text editor with formatting options
 - Paragraph and heading styles dropdown
@@ -31,16 +27,12 @@ The Text & Image block combines rich text content with images in configurable la
 
 ### Action Buttons
 
-[Screenshot: Action Buttons section showing "Nothing yet" state with "New Action Button" option]
-
 **Action Buttons** – Optional call-to-action buttons
 - Add multiple buttons using "New Action Button"
 - Custom button text and link destinations
 - Support for internal pages, external URLs, or email addresses
 
 ### Layout
-
-[Screenshot: Layout section showing Column Layout dropdown set to "Text Left - Image Right" and Mobile Layout dropdown set to "Image After Text"]
 
 **Column Layout** – Controls desktop layout arrangement
 - Text Left - Image Right (and other positioning options)
@@ -51,8 +43,6 @@ The Text & Image block combines rich text content with images in configurable la
 - Separate control for responsive behavior
 
 ### Colors
-
-[Screenshot: Colors section showing Heading Colour with color swatches including black (selected), white, light blue, blue, orange, yellow, and transparent options]
 
 **Heading Colour** – Color for any headings in the text content
 - Brand colors (black, white, blue, orange, yellow)

@@ -8,8 +8,6 @@ The Blog Listing block automatically displays blog posts from your Collections â
 
 ### Rich Text
 
-[Screenshot: Rich Text field with formatting toolbar showing paragraph/styles dropdowns, formatting options, and empty text area with "0 words"]
-
 **Rich Text field** â€“ Optional introductory content above the blog listing
 - Paragraph and heading styles
 - Text formatting (bold, italic, links)
@@ -17,8 +15,6 @@ The Blog Listing block automatically displays blog posts from your Collections â
 - Word count display
 
 ### Action Button
-
-[Screenshot: Action Button section showing Entry dropdown, "New Window" toggle, Link "Choose" button, and Link Text field with "e.g. Read more" placeholder]
 
 **Action Button** â€“ Optional button that appears with the blog listing
 - **Entry dropdown** â€“ Link to internal pages or entries
@@ -28,7 +24,9 @@ The Blog Listing block automatically displays blog posts from your Collections â
 
 ### Display Options
 
-[Screenshot: Display Options section showing "Number of Posts to Display" dropdown set to "9"]
+<br>
+<img src="./screenshots/076.png" alt="Display Options section showing Number of Posts to Display dropdown" style="max-width: 450px">
+<small>Display Options section showing Number of Posts to Display dropdown</small>
 
 **Number of Posts to Display** â€“ Control how many blog posts appear
 - Dropdown with numerical options (shown as "9")
@@ -36,15 +34,11 @@ The Blog Listing block automatically displays blog posts from your Collections â
 
 ### Mobile Layout
 
-[Screenshot: Mobile Layout dropdown set to "Carousel"]
-
 **Mobile Layout** â€“ Control how blog posts appear on mobile devices
 - Carousel option for mobile-friendly browsing
 - Other layout options available in dropdown
 
 ### Dynamic Loading and Filters
-
-[Screenshot: Three toggle switches - "Show Filters" (off), "Show Pagination" (off), "Load More Posts Without Reloading Page" (on)]
 
 **Show Filters** â€“ Toggle to display category or tag filters above the blog listing
 - Allows visitors to filter blog posts by category

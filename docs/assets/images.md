@@ -2,7 +2,7 @@
 
 The **Images** volume is where you will manage the vast majority of your site's visual content. It holds all the general-purpose images that you use in content blocks, page heroes, blog posts, and more. Think of it as your primary photo library for day-to-day content editing.
 
-[Screenshot: The Assets interface with the `Images` volume selected, showing a grid of uploaded image assets like `Text And Image Sample.jpg` and `Hero Placeholder.png`.]
+![The Content tab with the "+ Add a block" button being clicked, showing the dropdown menu of available content blocks](../page-management/screenshots/053.png)
 
 ## Managing Images
 
@@ -18,7 +18,7 @@ When you select the `Images` volume, you'll see a list or grid of all the images
 
 Once an image is uploaded, you can—and should—edit its details to improve accessibility and content management. Clicking on any asset will open the editor.
 
-[Screenshot: The image editing screen. The `Title` field shows "Call to Action Image" and the `Alternative Text` field is empty, ready for input. The right sidebar displays technical details like filename, dimensions, and file size.]
+![The image editing screen. The `Title` field shows "Call to Action Image" and the `Alternative...](./screenshots/134.png)
 
 There are two crucial fields to pay attention to:
 

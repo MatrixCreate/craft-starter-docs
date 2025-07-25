@@ -6,7 +6,8 @@
 
 The Main Navigation manages the primary menu structure that appears in the site header and powers the desktop navigation experience.
 
-[Screenshot: Main Navigation editing interface showing hierarchical menu structure with Home, Personal (with child items Personal Injury, Medical Negligence, Housing Disrepair), About Us, FAQ, and Contact Us entries, along with sidebar for adding new entries]
+![Main Navigation editing interface showing hierarchical menu structure with entries, along with sidebar for adding new entries](./screenshots/121.png)
+<small>Main Navigation editing interface showing hierarchical menu structure with entries, along with sidebar for adding new entries</small>
 
 ### Navigation Structure Display
 
@@ -37,7 +38,7 @@ Navigation items can be reordered through drag-and-drop functionality:
 
 ## Adding Navigation Items
 
-[Screenshot: Sidebar showing Entries section expanded with Parent dropdown, "Open in new window" toggle, "Add an Entry" button, and collapsible sections for Categories, Assets, Passive, and Custom URL]
+![A close-up of the right-hand sidebar in the entry editor, showing the "STATUS" section with...](../page-management/screenshots/056.png)
 
 ### Entry Addition Panel
 

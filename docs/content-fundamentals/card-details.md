@@ -2,7 +2,7 @@
 
 The **Card Details** tab is a crucial part of content management that controls how a piece of content appears when it is featured as a "card" or preview in a list on another part of your website. Filling this out ensures your content is presented professionally and enticingly wherever it is promoted.
 
-[Screenshot: The Card Details tab in the entry editor, showing the Card Image, Excerpt, and Icon fields clearly.]
+![The Card Details tab in the entry editor, showing the Card Image, Excerpt, and Icon fields clearly](./screenshots/048.png)
 
 ## Where Card Details Are Used
 

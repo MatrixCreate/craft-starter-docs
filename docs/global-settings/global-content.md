@@ -2,17 +2,13 @@
 
 *Manage reusable content blocks and site-wide elements*
 
-[Screenshot: Globals navigation showing Global Content selected in left sidebar with Company Info, Site Config, and Global Content options visible]
-
 The Global Content section provides centralized management for content that can be used across multiple pages through content blocks. When content blocks have global options enabled, they pull content from these sections.
-
-[Screenshot: Global Content main interface showing tabs for Call to Action, Contact Form, FAQ, USPs, Trust Links, Testimonials, and Newsletter Signup with Call to Action tab active]
 
 ## Content Tabs
 
 ### Call to Action
 
-[Screenshot: Call to Action tab showing Global CTA Image upload field, Global CTA Rich Text editor, Global CTA Action Buttons section, and color controls for heading, text, and background colors]
+![Call to Action tab showing Global CTA Image upload field, Global CTA Rich Text editor,...](./screenshots/114.png)
 
 Global call-to-action content used by CTA blocks site-wide:
 - **Global CTA Image** – Background or card image for CTAs
@@ -22,7 +18,7 @@ Global call-to-action content used by CTA blocks site-wide:
 
 ### Contact Form
 
-[Screenshot: Contact Form tab showing Global Contact Form Image upload field, Global Contact Form Rich Text editor, Global Contact Form selection dropdown, and color controls]
+![Contact Form tab showing Global Contact Form Image upload field, Global Contact Form Rich Text...](./screenshots/115.png)
 
 Global contact form configuration used by Contact Form blocks:
 - **Global Contact Form Image** – Optional image for contact sections
@@ -32,7 +28,7 @@ Global contact form configuration used by Contact Form blocks:
 
 ### FAQ
 
-[Screenshot: FAQ tab showing Global FAQ Rich Text editor, Global FAQ Accordion Items section with "Add Accordion Item" button, behavior toggle switches for "Open first item automatically" and "All items stay open", Global FAQ Action Button configuration, and color controls]
+![FAQ tab showing Global FAQ Rich Text editor, Global FAQ Accordion Items section with "Add...](./screenshots/116.png)
 
 Global frequently asked questions used by FAQ blocks:
 - **Global FAQ Rich Text** – Introductory content above FAQ sections
@@ -43,7 +39,7 @@ Global frequently asked questions used by FAQ blocks:
 
 ### USPs
 
-[Screenshot: USPs tab showing Global USPs Rich Text editor, Global USPs section with "Add a USP" button, and color controls for heading, text, and background colors]
+![USPs tab showing Global USPs Rich Text editor, Global USPs section with "Add a USP"...](./screenshots/117.png)
 
 Global unique selling points used by USP blocks:
 - **Global USPs Rich Text** – Introductory content above USPs
@@ -52,7 +48,7 @@ Global unique selling points used by USP blocks:
 
 ### Trust Links
 
-[Screenshot: Trust Links tab showing trust link management interface with options to add certification links, partner logos, and trust badges]
+![Trust Links tab showing trust link management interface with options to add certification links, partner...](./screenshots/118.png)
 
 Trust badges and certification links:
 - Links to certifications, awards, and trust indicators
@@ -62,7 +58,7 @@ Trust badges and certification links:
 
 ### Testimonials
 
-[Screenshot: Testimonials tab showing Global Testimonials Rich Text editor, "Testimonials Origin" toggle switch, Global Reviews Embed Code text field, and color controls for testimonial styling]
+![Testimonials tab showing Global Testimonials Rich Text editor, "Testimonials Origin" toggle switch, Global Reviews Embed...](./screenshots/119.png)
 
 Global testimonials used by Testimonials blocks:
 - **Global Testimonials Rich Text** – Introductory content above testimonials
@@ -73,7 +69,7 @@ Global testimonials used by Testimonials blocks:
 
 ### Newsletter Signup
 
-[Screenshot: Newsletter Signup tab showing newsletter form configuration fields, email marketing platform integration settings, and subscription confirmation options]
+![Newsletter Signup tab showing newsletter form configuration fields, email marketing platform integration settings, and subscription...](../content-blocks/screenshots/139.png)
 
 Email subscription form configuration:
 - Newsletter signup form settings

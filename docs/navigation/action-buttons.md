@@ -6,7 +6,8 @@
 
 Action Buttons create prominent call-to-action elements that appear in the site header, providing direct access to key contact methods and conversion opportunities.
 
-[Screenshot: Action Buttons navigation interface showing Telephone (CUSTOM URL type) and Contact Us (ENTRY type) buttons in the navigation list]
+![Action Buttons navigation interface showing Telephone (CUSTOM URL type) and Contact Us (ENTRY type) buttons in the navigation list](./screenshots/screenshot-125.png)
+<small>Action Buttons navigation interface showing Telephone (CUSTOM URL type) and Contact Us (ENTRY type) buttons in the navigation list</small>
 
 ## Action Button Types
 
@@ -26,7 +27,8 @@ Action Buttons create prominent call-to-action elements that appear in the site 
 ### Global Telephone Integration
 **Use Global Telephone** - Automatic telephone number management:
 
-[Screenshot: Use Global Telephone toggle switch in enabled state]
+![Use Global Telephone toggle switch in enabled state](./screenshots/126.png)
+<small>Use Global Telephone toggle switch in enabled state</small>
 
 - **Toggle enabled** - Automatically pulls telephone number from Globals → Company Info
 - **Centralized management** - Update phone number once in Company Info, applies everywhere

@@ -8,8 +8,6 @@ The Entry Cards block creates visual cards that link to other content on your si
 
 ### Rich Text
 
-[Screenshot: Rich Text field with formatting toolbar showing paragraph/styles dropdowns and empty text area with "0 words"]
-
 **Rich Text field** – Optional introductory content above the entry cards
 - Paragraph and heading styles
 - Text formatting (bold, italic, links)
@@ -18,7 +16,7 @@ The Entry Cards block creates visual cards that link to other content on your si
 
 ### Entry Selection
 
-[Screenshot: Entry Selection section showing toggle switch between "Automatic" and "Custom" options]
+![Entry Selection section showing toggle switch between "Automatic" and "Custom" options](./screenshots/084.png)
 
 **Entry Selection toggle** – Choose between automatic and custom card generation
 - **Automatic** – System automatically selects and displays entries
@@ -26,7 +24,7 @@ The Entry Cards block creates visual cards that link to other content on your si
 
 ### Show Current Entry's Own Children
 
-[Screenshot: Toggle switch for "Show Current Entry's Own Children" in enabled state]
+![Toggle switch for "Show Current Entry's Own Children" in enabled state](./screenshots/085.png)
 
 **Show Current Entry's Own Children toggle** – When enabled in Automatic mode, displays child pages of the current entry
 - Useful for parent pages that need to show their sub-pages
@@ -34,8 +32,6 @@ The Entry Cards block creates visual cards that link to other content on your si
 - Cards use child entry titles, excerpts, and card images
 
 ### Color Controls
-
-[Screenshot: Color controls showing Heading Colour, Text Colour, and Background Colour sections with color swatches including black (selected), white, light blue, blue, orange, yellow, and transparent options]
 
 **Color customization:**
 - **Heading Colour** – Color for card headings and titles

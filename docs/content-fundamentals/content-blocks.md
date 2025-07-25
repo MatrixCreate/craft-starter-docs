@@ -8,8 +8,6 @@ Instead of a single text editor, Craft CMS uses a content block system for build
 
 Content blocks are added in the Content tab when editing entries. Each block type has specific fields and handles different kinds of content.
 
-[Screenshot: Content tab showing multiple content blocks stacked vertically with "Add Content Block" button at bottom]
-
 **Basic workflow:**
 1. **Edit an entry** and go to the Content tab
 2. **Add blocks** using the "Add Content Block" button

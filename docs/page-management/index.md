@@ -1,3 +1,9 @@
+---
+next:
+  text: 'Creating Pages'
+  link: '/page-management/creating-pages'
+---
+
 # Page Management
 
 This section covers the essential skills for managing the lifecycle of pages on your website. Here, you will learn how to create new pages, organize them into a logical site structure, and master the publishing workflow.

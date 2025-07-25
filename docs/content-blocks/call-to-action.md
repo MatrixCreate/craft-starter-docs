@@ -8,7 +8,8 @@ The Call to Action block creates prominent sections designed to encourage visito
 
 ### Global Call to Action
 
-[Screenshot: Call to Action block with "Use Global Call to Action" toggle enabled, showing blue info box stating "Global Call to Action can be edited in Globals > Global Content > Call to Action"]
+<img src="./screenshots/079.png" alt="Call to Action block with Use Global Call to Action toggle enabled, showing blue info..." style="max-width: 450px">
+<small>Call to Action block with Use Global Call to Action toggle enabled, showing blue info...</small>
 
 **Use Global Call to Action toggle** – When enabled, uses centrally managed content
 - Content is managed in Globals → Global Content → Call to Action
@@ -18,7 +19,8 @@ The Call to Action block creates prominent sections designed to encourage visito
 
 ### Local Call to Action
 
-[Screenshot: Call to Action block with "Use Global Call to Action" toggle disabled, showing Rich Text field, Action Buttons section, and color controls including Heading Colour, Text Colour, Background Colour, and Background Image options]
+<img src="./screenshots/080.png" alt="Call to Action block with Use Global Call to Action toggle disabled, showing Rich Text..." style="max-width: 450px">
+<small>Call to Action block with "Use Global Call to Action" toggle disabled, showing Rich Text...</small>
 
 **Use Global Call to Action toggle disabled** – Create page-specific content
 

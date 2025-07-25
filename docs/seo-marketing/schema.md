@@ -10,7 +10,7 @@ Schema markup provides structured data that helps search engines understand page
 
 The Schema tab appears in entry editing alongside Content, Hero, Card Details, Footer Content, and SEO tabs, providing manual structured data control for advanced SEO requirements.
 
-[Screenshot: Schema tab in entry editing showing Custom Schema text area with blue information box explaining usage for manual JSON-LD code when SEO Settings aren't sufficient]
+![Schema tab in entry editing showing Custom Schema text area with blue information box explaining usage for manual JSON-LD code when SEO Settings aren't sufficient](./screenshots/schema.png)
 
 ### Custom Schema Field
 - **Large text area** for manual JSON-LD structured data entry

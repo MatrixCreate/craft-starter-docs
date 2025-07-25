@@ -4,7 +4,7 @@
 
 You can find these settings under **SEO → Content SEO** in the main sidebar.
 
-[Screenshot: The Content SEO page, showing a list of different content types that can be configured, such as Blog, Error Pages, Homepage, Pages, and Team.]
+![The Content SEO page, showing a list of different content types that can be configured, such as Blog, Error Pages, Homepage, Pages, and Team.](./screenshots/content-seo.png)
 
 ## Why Use Content SEO?
 

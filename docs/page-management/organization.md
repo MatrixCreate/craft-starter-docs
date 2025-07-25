@@ -15,7 +15,7 @@ When you create or edit a page, you can assign it a **Parent** page. This simple
 2.  Click **Choose** to open a list of all available pages.
 3.  Select the page you want to be the parent.
 
-[Screenshot: The right-hand sidebar of the entry editor, with the "Parent" field highlighted and the page selection modal open.]
+<img src="./screenshots/054.png" alt="The right-hand sidebar of the entry editor, with the Parent field highlighted and the page selection modal open" style="max-width: 400px">
 
 ### Example of Page Hierarchy
 
@@ -31,7 +31,7 @@ This would result in the following clean, logical URL structure:
 
 You can see and manage the entire page hierarchy directly from the main entries list.
 
-[Screenshot: The Entries list view, showing pages nested under their parents in a clear tree structure. The drag handles for reordering are visible.]
+![The Entries list view, showing pages nested under their parents in a clear tree structure....](./screenshots/055.png)
 
 -   **Visual Tree Structure**: The list is displayed as an expandable tree, making it easy to see the parent-child relationships.
 -   **Reordering**: You can drag and drop pages to change their order within the same level.

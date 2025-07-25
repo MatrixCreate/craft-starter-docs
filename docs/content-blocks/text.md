@@ -8,8 +8,6 @@ The Text block provides rich text editing for content that needs formatting like
 
 ### Rich Text Editor
 
-[Screenshot: Rich text editor showing paragraph dropdown, styles dropdown, formatting tools including bold button, and text area with word count]
-
 **Rich text field with:**
 - Paragraph styles (H1, H2, H3, paragraph text)
 - Text formatting (bold, italic, links)
@@ -18,16 +16,12 @@ The Text block provides rich text editing for content that needs formatting like
 
 ### Action Buttons
 
-[Screenshot: Action Buttons section showing "Nothing yet" message and "New Action Button" option]
-
 **Optional call-to-action buttons:**
 - Custom button text
 - Link to internal pages or external URLs
 - Multiple buttons supported
 
 ### Color Controls
-
-[Screenshot: Color controls showing Heading Colour, Text Colour, and Background Colour sections with color swatches]
 
 **Color customization:**
 - **Heading Colour** – Color for any headings in the text

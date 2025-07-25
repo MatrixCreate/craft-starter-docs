@@ -1,3 +1,9 @@
+---
+next:
+  text: 'Global SEO'
+  link: '/seo-marketing/global-seo'
+---
+
 # SEO & Marketing
 
 *Managing search engine optimization and marketing tools in Craft CMS*
@@ -18,7 +24,7 @@ Craft CMS handles search engine optimization through the SEOmatic plugin, provid
 - **[Entry SEO](entry-seo.md)**: Page-level SEO controls and overrides
 - **[Schema Markup](schema.md)**: Structured data configuration and generation
 
-[Screenshot: SEO sidebar navigation showing Dashboard, Global SEO, Content SEO, Site Settings, and Tracking Scripts options]
+![SEO sidebar navigation showing Dashboard, Global SEO, Content SEO, Site Settings, and Tracking Scripts options](./screenshots/127.png)
 
 ## SEO Management Approach
 

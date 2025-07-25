@@ -2,15 +2,11 @@
 
 *Company contact information, brand assets, opening hours, and social networks*
 
-[Screenshot: Globals navigation showing Company Info, Site Config, and Global Content in left sidebar with Company Info selected and highlighted]
-
 The Company Info global set manages essential business information that appears throughout your site. This includes contact details, brand logos, opening hours, and social media links.
-
-[Screenshot: Company Info main interface showing Contact Info, Brand, Opening Hours, and Social Networks tabs with Contact Info tab active]
 
 ## Contact Info Tab
 
-[Screenshot: Contact Info tab showing Contact Details section with Address, Email, Telephone, and Fax fields, followed by Location Map section with Location Map Embed Code field, and Legal section with Limited Company Number and Registered Address fields]
+![Company Info main interface showing Contact Info, Brand, Opening Hours, and Social Networks tabs with...](./screenshots/101.png)
 
 ### Contact Details
 - **Address** – Business address for contact information and maps
@@ -29,7 +25,7 @@ The Company Info global set manages essential business information that appears 
 
 ## Brand Tab
 
-[Screenshot: Brand tab showing Brand Logos section with three logo upload fields - Main Logo, Footer Logo, and Email Logo, each with "Add an image", "Upload a file", and "Search" options]
+![Brand tab showing Brand Logos section with three logo upload fields - Main Logo, Footer...](./screenshots/103.png)
 
 ### Brand Logos
 - **Main Logo** – Primary logo used in site header and main branding
@@ -40,7 +36,7 @@ All logo fields accept brand assets and maintain consistent branding across diff
 
 ## Opening Hours Tab
 
-[Screenshot: Opening Hours tab showing Opening Hours section with opening hours field, "Show Times in 24-Hour Format" toggle switch, and "Output LocalBusiness and Opening Hours Schema" toggle switch]
+![Opening Hours tab showing Opening Hours section with opening hours field, "Show Times in 24-Hour...](./screenshots/104.png)
 
 ### Opening Hours Management
 - **Opening Hours** – Business operating hours by day
@@ -51,7 +47,7 @@ The opening hours can be displayed on contact pages and used for structured data
 
 ## Social Networks Tab
 
-[Screenshot: Social Networks tab showing Social Networks section with social media links field and options to add various social media platforms]
+![Social Networks tab showing Social Networks section with social media links field and options to...](./screenshots/105.png)
 
 ### Social Media Links
 - **Social Networks** – Links to business social media profiles

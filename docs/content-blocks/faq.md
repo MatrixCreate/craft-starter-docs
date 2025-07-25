@@ -8,7 +8,8 @@ The FAQ block creates accordion-style question and answer sections. It offers bo
 
 ### Global FAQ
 
-[Screenshot: FAQ block with "Use Global FAQ" toggle enabled and "Output FAQPage Schema" toggle enabled, showing blue info box stating "Global FAQ can be edited in Globals > Global Content > FAQ"]
+<img src="./screenshots/087.png" alt="FAQ block with Use Global FAQ toggle enabled and Output FAQPage Schema toggle enabled, showing..." style="max-width: 500px">
+<small>FAQ block with Use Global FAQ toggle enabled and Output FAQPage Schema toggle enabled, showing...</small>
 
 **Use Global FAQ toggle** – When enabled, uses centrally managed FAQ content
 - Content is managed in Globals → Global Content → FAQ
@@ -23,7 +24,8 @@ The FAQ block creates accordion-style question and answer sections. It offers bo
 
 ### Local FAQ
 
-[Screenshot: FAQ block with "Use Global FAQ" toggle disabled, showing "Output FAQPage Schema" enabled, Rich Text field, Accordion Items section, behavior toggles, Action Button, and Heading Colour controls]
+<img src="./screenshots/088.png" alt="FAQ block with Use Global FAQ toggle disabled, showing Output FAQPage Schema enabled, Rich Text..." style="max-width: 500px">
+<small>FAQ block with Use Global FAQ toggle disabled, showing "Output FAQPage Schema" enabled, Rich Text...</small>
 
 **Use Global FAQ toggle disabled** – Create page-specific FAQ content
 

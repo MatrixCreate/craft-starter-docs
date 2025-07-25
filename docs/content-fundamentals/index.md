@@ -1,3 +1,9 @@
+---
+next:
+  text: 'Content Types'
+  link: '/content-fundamentals/content-types'
+---
+
 # Content Fundamentals
 
 This section explains the core concepts of how content is structured and managed in Craft CMS. Understanding these fundamentals is the key to using the system effectively and creating well-organized, professional content.

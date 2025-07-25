@@ -8,7 +8,8 @@ The USPs block displays key selling points or benefits with icons and optional t
 
 ### Global USPs
 
-[Screenshot: USPs block with "Use Global USPs" toggle enabled]
+<img src="./screenshots/094.png" alt="USPs block with Use Global USPs toggle enabled" style="max-width: 500px">
+<small>USPs block with Use Global USPs toggle enabled</small>
 
 **Use Global USPs toggle** – When enabled, uses centrally managed USP content
 - Content is managed in Globals → Global Content → USPs
@@ -18,7 +19,8 @@ The USPs block displays key selling points or benefits with icons and optional t
 
 ### Local USPs
 
-[Screenshot: USPs block with "Use Global USPs" toggle disabled, showing Rich Text field, USPs section with "Nothing yet" and "Add a USP" button, and color controls for Heading Colour, Text Colour, and Background Colour]
+<img src="./screenshots/095.png" alt="USPs block with Use Global USPs toggle disabled, showing Rich Text field, USPs section with..." style="max-width: 500px">
+<small>USPs block with Use Global USPs toggle disabled, showing Rich Text field, USPs section with...</small>
 
 **Use Global USPs toggle disabled** – Create page-specific USP content
 
@@ -35,7 +37,7 @@ The USPs block displays key selling points or benefits with icons and optional t
 
 ## Adding USP Items
 
-[Screenshot: "Add a USP" slideout panel showing Icon field and Rich Text field with formatting toolbar]
+!["Add a USP" slideout panel showing Icon field and Rich Text field with formatting toolbar](./screenshots/096.png)
 
 When adding a USP item, you configure:
 

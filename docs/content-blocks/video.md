@@ -8,8 +8,6 @@ The Video block allows you to embed videos from YouTube and Vimeo with optional 
 
 ### Rich Text
 
-[Screenshot: Rich Text field with formatting toolbar and empty text area with "0 words"]
-
 **Rich Text field** – Optional introductory content above the video
 - Paragraph and heading styles
 - Text formatting options
@@ -17,8 +15,6 @@ The Video block allows you to embed videos from YouTube and Vimeo with optional 
 - Word count display
 
 ### Video URL
-
-[Screenshot: Video URL field with empty text input and Preview section below]
 
 **Video URL field** – Required video source (marked with red asterisk)
 - Accepts **YouTube** video URLs
@@ -28,8 +24,6 @@ The Video block allows you to embed videos from YouTube and Vimeo with optional 
 
 ### Alternative Poster Image
 
-[Screenshot: Alternative Poster Image section with "Add an image", "Upload a file", and "Search" buttons, plus blue info text "Choose an alternative poster image if you don't like the default option"]
-
 **Alternative Poster Image** – Optional custom video thumbnail
 - **Add an image** – Select from existing assets
 - **Upload a file** – Upload a new poster image directly
@@ -38,8 +32,6 @@ The Video block allows you to embed videos from YouTube and Vimeo with optional 
 - Custom poster images can improve visual consistency with your site design
 
 ### Play in Lightbox
-
-[Screenshot: "Play in Lightbox" toggle switch in disabled state]
 
 **Play in Lightbox toggle** – Controls video playback behavior
 - **Enabled** – Video opens in a lightbox overlay when clicked

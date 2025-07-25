@@ -8,8 +8,6 @@ The Testimonials block displays customer reviews and testimonials in a carousel 
 
 ### Testimonials Block Interface
 
-[Screenshot: Testimonials block with Rich Text field, blue info box stating "The Testimonials block can be edited in Globals → Global Content → Testimonials", and color controls for Heading Colour, Text Colour, and Background Colour]
-
 **Global testimonials management** – All testimonial content is managed centrally
 - Testimonials are edited in Globals → Global Content → Testimonials
 - Same testimonials appear consistently across all pages where the block is used

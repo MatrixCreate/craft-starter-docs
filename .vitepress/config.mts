@@ -90,7 +90,7 @@ export default defineConfig({
           { text: 'Call to Action', link: '/content-blocks/call-to-action' },
           { text: 'Blog Listing', link: '/content-blocks/blog-listing' },
           { text: 'Testimonials', link: '/content-blocks/testimonials' },
-          { text: 'FAQ Section', link: '/content-blocks/faq' },
+          { text: 'FAQ', link: '/content-blocks/faq' },
           { text: 'USPs', link: '/content-blocks/usps' },
           { text: 'Entry Cards', link: '/content-blocks/entry-cards' },
           { text: 'Contact Form', link: '/content-blocks/contact-form' },

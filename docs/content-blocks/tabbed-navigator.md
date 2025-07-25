@@ -8,8 +8,6 @@ The Tabbed Navigator block creates an interactive tabbed interface that displays
 
 ### Rich Text
 
-[Screenshot: Rich Text field with formatting toolbar and empty text area with "0 words"]
-
 **Rich Text field** – Optional introductory content above the tabbed interface
 - Paragraph and heading styles
 - Text formatting options
@@ -18,7 +16,7 @@ The Tabbed Navigator block creates an interactive tabbed interface that displays
 
 ### Tabs
 
-[Screenshot: Tabs section with "Add Tab" button]
+![Tabs section with "Add Tab" button](./screenshots/090.png)
 
 **Tabs section** – Required tab configuration (marked with red asterisk)
 - "Add Tab" button to create individual tabs
@@ -27,7 +25,7 @@ The Tabbed Navigator block creates an interactive tabbed interface that displays
 
 ## Tab Configuration
 
-[Screenshot: Tab editing panel showing Tab Label field and Entries section with "Add an entry" button]
+![Tab editing panel showing Tab Label field and Entries section with "Add an entry" button](./screenshots/091.png)
 
 When adding a tab, you configure:
 
@@ -41,8 +39,6 @@ When adding a tab, you configure:
 - Each entry displays as a card with card image, title, and excerpt
 
 ### Color Controls
-
-[Screenshot: Color controls showing Heading Colour, Text Colour, and Background Colour sections with color swatches including black (selected), white, light blue, blue, orange, yellow, and transparent options]
 
 **Color customization:**
 - **Heading Colour** – Color for tab labels and entry card headings
