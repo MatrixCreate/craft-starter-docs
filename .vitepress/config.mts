@@ -45,6 +45,9 @@ export default defineConfig({
       { text: 'Content Blocks', link: '/content-blocks/' },
       { text: 'Help', link: '/help/' }
     ],
+    search: {
+      provider: 'local'
+    },
 
     sidebar: [
       {
@@ -117,7 +120,7 @@ export default defineConfig({
           { text: 'Main Navigation', link: '/navigation/main-navigation' },
           { text: 'Footer Navigation', link: '/navigation/footer-navigation' },
           { text: 'Legal Navigation', link: '/navigation/legal-navigation' },
-          { text: 'Action Buttons', link: '/navigation/action-buttons' },
+          { text: 'Actions', link: '/navigation/actions' },
         ]
       },
       {
