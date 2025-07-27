@@ -64,6 +64,36 @@ Add calls-to-action to encourage visitor engagement.
 - Link destinations (internal pages, external URLs, email addresses)
 - Multiple buttons per block
 
+### Action Button Types
+
+**Entry**
+
+Link to other pages, blog posts, or any content entry on your site. The Entry type provides a dropdown to search and select from existing entries, making it easy to create internal navigation.
+
+<img src="./screenshots/062a.png" alt="Entry action button configuration showing dropdown to select site entries with Link field and Link Text input" style="max-width: 450px">
+
+**Features:**
+- Choose any entry from your site
+- Custom link text (e.g., "Read more", "Learn more")
+- Option to open in new window
+- Automatic URL generation
+
+**In-Page Link**
+
+Create smooth-scrolling navigation to specific sections within the current page. Use anchor IDs to jump to different content blocks or headings on the same page.
+
+<img src="./screenshots/062b.png" alt="In-Page Link action button showing Target Anchor ID field, Link Text input, and Smooth Scroll toggle" style="max-width: 450px">
+
+Every Content Block has an Anchor ID, available on its In-Page Anchor tab.  
+
+<img src="./screenshots/062c.png" alt="Every Content Block has an Anchor ID, available on its In-Page Anchor tab" style="max-width: 450px">
+
+**Features:**
+- Target any anchor ID on the page (e.g., #anchorID-10014)
+- Custom link text for the button
+- Smooth scroll animation when enabled
+- Perfect for long-form content and table of contents navigation
+
 ### Color Controls
 
 Customize block appearance with predefined colors.

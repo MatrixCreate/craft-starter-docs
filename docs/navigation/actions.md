@@ -1,15 +1,15 @@
-# Action Buttons
+# Actions
 
 *Managing header call-to-action buttons like telephone and contact links*
 
-## Action Buttons Purpose
+## Actions Purpose
 
-Action Buttons create prominent call-to-action elements that appear in the site header, providing direct access to key contact methods and conversion opportunities.
+Actions create prominent call-to-action elements that appear in the site header, providing direct access to key contact methods and conversion opportunities.
 
-![Action Buttons navigation interface showing Telephone (CUSTOM URL type) and Contact Us (ENTRY type) buttons in the navigation list](./screenshots/screenshot-125.png)
-<small>Action Buttons navigation interface showing Telephone (CUSTOM URL type) and Contact Us (ENTRY type) buttons in the navigation list</small>
+![Actions navigation interface showing Telephone (CUSTOM URL type) and Contact Us (ENTRY type) buttons in the navigation list](./screenshots/screenshot-125.png)
+<small>Actions navigation interface showing Telephone (CUSTOM URL type) and Contact Us (ENTRY type) buttons in the navigation list</small>
 
-## Action Button Types
+## Action Types
 
 ### Entry-Based Action Buttons
 **Contact Us** - Links to contact pages or forms within the site:
@@ -41,7 +41,7 @@ Action Buttons create prominent call-to-action elements that appear in the site 
 - **Mobile Optimization** - Telephone links particularly effective on mobile devices
 - **Consistent Access** - Available on every page for reliable user access
 
-## Creating Action Buttons
+## Creating Actions
 
 ### Setting Up Contact Buttons
 1. **Telephone Links** - Two configuration options available:
@@ -86,8 +86,8 @@ Action Buttons create prominent call-to-action elements that appear in the site 
 - **Mobile usage** - Track mobile vs desktop usage patterns for contact methods
 - **Response optimization** - Ensure backend systems handle action button traffic effectively
 
-Action Buttons provide direct pathways for users to engage with your business, focusing on immediate contact and conversion opportunities through strategic header placement.
+Actions provide direct pathways for users to engage with your business, focusing on immediate contact and conversion opportunities through strategic header placement.
 
 ---
 
-*Action Buttons create essential conversion pathways by providing prominent, accessible contact methods in the site header.*
+*Actions create essential conversion pathways by providing prominent, accessible contact methods in the site header.*
