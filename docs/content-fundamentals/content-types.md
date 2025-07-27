@@ -134,7 +134,7 @@ WordPress users will recognize some concepts but find Craft's approach more stru
 **Create new entries:**
 Each content type has a "New Entry" button that opens a form customized for that type of content.
 
-![New Entry button and customized form fields for different content types](./screenshots/033.png)
+<img src="./screenshots/033.png" alt="New Entry button and customized form fields for different content types" style="max-width: 275px">
 
 **Entry features:**
 - **Custom fields** specific to each content type

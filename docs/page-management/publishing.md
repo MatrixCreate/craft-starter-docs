@@ -39,13 +39,23 @@ Craft provides several safe ways to save your progress.
 
 ## Previewing Your Changes
 
-Before you publish, you can see exactly how your page will look using the **Preview** feature.
+Before you publish, you can see exactly how your page will look using two different preview options.
 
-1.  While editing, click the **Preview** button located in the header of the editor.
-2.  This will open a new tab in your browser showing a live, interactive preview of the page, even if it's a draft.
-3.  This preview link is shareable! You can send the URL to colleagues for feedback before the page goes live. The link is temporary and secure.
+### Preview Button
+
+The **Preview** button opens an interactive split-screen view that shows both the content editing interface and a live preview of your page simultaneously. This allows you to see changes in real-time as you edit.
 
 ![The top header of the entry editor, highlighting the "Preview" button](./screenshots/059.png)
+
+### View Button
+
+The **View** button opens a new tab with a private preview of your current page at a temporary URL. This preview link:
+- Shows exactly how the page will appear to visitors
+- Works even for draft content
+- Expires after 7 days for security
+- Cannot be viewed by the public
+- Can be shared with colleagues for feedback before publishing
+
 
 ---
 

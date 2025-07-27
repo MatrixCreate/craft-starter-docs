@@ -16,11 +16,11 @@
 
 **Enable Hero toggle** – Turn the hero section on or off for the page
 
-<img src="./screenshots/044.png" alt="Hero tab showing Enable Hero toggle switch in enabled state" style="max-width: 300px">
+<img src="./screenshots/044.png" alt="Hero tab showing Enable Hero toggle switch in enabled state" style="max-width: 275px">
 
 **Slimline Design toggle** – Alternative design option (when available)
 
-<img src="./screenshots/045.png" alt="Hero tab showing Slimline Design toggle switch in enabled state" style="max-width: 265px">
+<img src="./screenshots/045.png" alt="Hero tab showing Slimline Design toggle switch in enabled state" style="max-width: 275px">
 
 ### Images
 

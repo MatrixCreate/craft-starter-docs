@@ -66,7 +66,7 @@ Add calls-to-action to encourage visitor engagement.
 
 ### Action Button Types
 
-**Entry**
+#### Entry
 
 Link to other pages, blog posts, or any content entry on your site. The Entry type provides a dropdown to search and select from existing entries, making it easy to create internal navigation.
 
@@ -78,7 +78,7 @@ Link to other pages, blog posts, or any content entry on your site. The Entry ty
 - Option to open in new window
 - Automatic URL generation
 
-**In-Page Link**
+#### In-Page Link
 
 Create smooth-scrolling navigation to specific sections within the current page. Use anchor IDs to jump to different content blocks or headings on the same page.
 
@@ -93,6 +93,19 @@ Every Content Block has an Anchor ID, available on its In-Page Anchor tab.
 - Custom link text for the button
 - Smooth scroll animation when enabled
 - Perfect for long-form content and table of contents navigation
+
+#### Call Now
+
+Create clickable telephone links that allow visitors to call your business directly from their mobile device. Choose between using your site's global phone number or entering a custom number for specific purposes.
+
+<img src="./screenshots/062d.png" alt="Call Now action button showing Global Telephone Number toggle and Custom Telephone Number fields with tel: protocol example" style="max-width: 450px">
+
+**Features:**
+- **Global Telephone Number**: Uses telephone number from Globals > Company Info
+- **Custom Telephone Number**: Enter specific tel: link (e.g., tel:01234567890)
+- Custom display text for the phone number
+- Automatically creates clickable tel: links for mobile devices
+- Perfect for contact pages and service inquiries
 
 ### Color Controls
 
