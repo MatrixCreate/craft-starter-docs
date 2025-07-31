@@ -16,7 +16,7 @@ Craft CMS organizes navigation through five distinct navigation types, each serv
 - **[Main Navigation](main-navigation.md)**: Primary desktop navigation with hierarchy and dropdown support
 - **[Footer Navigation](footer-navigation.md)**: Site-wide footer links and secondary navigation
 - **[Legal Navigation](legal-navigation.md)**: Compliance and legal page links
-- **[Action Buttons](action-buttons.md)**: Prominent call-to-action navigation elements
+- **[Actions](actions.md)**: Prominent call-to-action navigation elements
 
 ![Navigation overview showing Main Navigation, Mobile Main Navigation, Footer Navigation, Legal Navigation, and Action Buttons...](./screenshots/120.png)
 
@@ -33,7 +33,7 @@ Each navigation serves distinct site areas:
 
 **Legal Navigation** - Dedicated menu for compliance pages like privacy policies, terms of service, and regulatory requirements.
 
-**Action Buttons** - Strategic call-to-action elements that appear consistently across site templates to drive user engagement.
+**Actions** - Strategic call-to-action elements that appear in the header.
 
 ### Node Types and Hierarchy
 Navigation items can be **Entry nodes** that link to specific pages or **Passive nodes** that group items without direct links. This creates flexible menu structures with dropdown organization.
