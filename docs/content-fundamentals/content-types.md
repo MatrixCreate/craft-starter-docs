@@ -9,13 +9,13 @@ Craft CMS organizes content using Entries, but unlike traditional systems where 
   - Homepage
 - Company section
   - Blog posts 
+  - Blog categories
   - Team member profiles
   - Customer testimonials
 - Content section
   - Main site pages (About, Services, Contact)
   - Landing pages
 - System section
-  - Blog categories
   - Error pages (404, 503)
   - Maintenance pages
 
